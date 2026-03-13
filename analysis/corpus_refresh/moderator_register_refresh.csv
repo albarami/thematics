@@ -1,0 +1,46 @@
+﻿moderator_register_id,case_id,day_number,day_label,group_label,source_group_label,table_id,moderator_name,source_workbook,source_sheet,mapping_confidence,notes
+MRR001,CASE_D1,1,Day 1,Childhood,Childern,0,Dr. Kholoud,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR002,CASE_D1,1,Day 1,Childhood,Childern,1,Nouf Fetais,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR003,CASE_D1,1,Day 1,Childhood,Childern,2,هنادي أحمد أبو بكر,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR004,CASE_D1,1,Day 1,Childhood,Childern,3,هالة فايد حسن فتحي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR005,CASE_D1,1,Day 1,Childhood,Childern,4,عبد الكريم شعبان,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR006,CASE_D1,1,Day 1,Childhood,Childern,5,Dr. Abdelhamid Ahmed,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR007,CASE_D1,1,Day 1,Childhood,Childern,6,نور أحمد الوتادي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR008,CASE_D1,1,Day 1,Childhood,Childern,7,عبلة أحمد خليل,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR009,CASE_D1,1,Day 1,Childhood,Childern,8,Al anoud Fetais,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR010,CASE_D1,1,Day 1,Childhood,Childern,9,Raghda Abu Salah,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR011,CASE_D1,1,Day 1,Childhood,Childern,10,Prof. Arokiasamy Penanayagam,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR012,CASE_D2,2,Day 2,Youth,Youth,0,د. ابراهيم بوزيداني,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR013,CASE_D2,2,Day 2,Youth,Youth,1,هنادي أحمد أبو بكر,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR014,CASE_D2,2,Day 2,Youth,Youth,2,د. رضوان عبد العال,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR015,CASE_D2,2,Day 2,Youth,Youth,3,هالة فايد حسن فتحي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR016,CASE_D2,2,Day 2,Youth,Youth,4,عبد الكريم شعبان,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR017,CASE_D2,2,Day 2,Youth,Youth,5,Dr. Abdelhamid Ahmed,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR018,CASE_D2,2,Day 2,Youth,Youth,6,Raghda Abu Salah,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR019,CASE_D2,2,Day 2,Youth,Youth,7,عبلة أحمد خليل,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR020,CASE_D2,2,Day 2,Youth,Youth,8,Al anoud Fetais,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR021,CASE_D2,2,Day 2,Youth,Youth,9,د. عبد اللطيف سلامي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR022,CASE_D2,2,Day 2,Youth,Youth,10,Prof. Arokiasamy Penanayagam,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR023,CASE_D2,2,Day 2,Youth,Youth,11,د. محمد صديق مجذوب,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR024,CASE_D3,3,Day 3,Adults,Adults,0,د. ابراهيم بوزيداني,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR025,CASE_D3,3,Day 3,Adults,Adults,1,هنادي أحمد أبو بكر,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR026,CASE_D3,3,Day 3,Adults,Adults,2,د. رضوان عبد العال,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR027,CASE_D3,3,Day 3,Adults,Adults,3,هالة فايد حسن فتحي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR028,CASE_D3,3,Day 3,Adults,Adults,4,عبد الكريم شعبان,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR029,CASE_D3,3,Day 3,Adults,Adults,5,Dr. Abdelhamid Ahmed,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR030,CASE_D3,3,Day 3,Adults,Adults,6,د. مصطفى عشوي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR031,CASE_D3,3,Day 3,Adults,Adults,7,عبلة أحمد خليل,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR032,CASE_D3,3,Day 3,Adults,Adults,8,Al anoud Fetais,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR033,CASE_D3,3,Day 3,Adults,Adults,9,Iman Amro,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR034,CASE_D3,3,Day 3,Adults,Adults,10,Dr. Qusai Harahsheh,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR035,CASE_D3,3,Day 3,Adults,Adults,11,د. عبد اللطيف سلامي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR036,CASE_D4,4,Day 4,Elderly,Elderly,1,Diana Hassan,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR037,CASE_D4,4,Day 4,Elderly,Elderly,2,د. رضوان عبد العال,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR038,CASE_D4,4,Day 4,Elderly,Elderly,3,هالة فايد حسن فتحي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR039,CASE_D4,4,Day 4,Elderly,Elderly,4,عبد الكريم شعبان,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR040,CASE_D4,4,Day 4,Elderly,Elderly,5,Dr. Abdelhamid Ahmed,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR041,CASE_D4,4,Day 4,Elderly,Elderly,6,غادة سيف الكواري,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR042,CASE_D4,4,Day 4,Elderly,Elderly,7,عبلة أحمد خليل,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR043,CASE_D4,4,Day 4,Elderly,Elderly,8,Al anoud Fetais,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR044,CASE_D4,4,Day 4,Elderly,Elderly,9,د. عبد اللطيف سلامي,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.
+MRR045,CASE_D4,4,Day 4,Elderly,Elderly,10,Dr. Qusai Harahsheh,Moderators.xlsx,Day 1,confirmed,Workbook-listed moderator; normalize spelling variants against transcript context during speaker typing.

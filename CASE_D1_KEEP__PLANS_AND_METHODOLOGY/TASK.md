@@ -1,0 +1,46 @@
+# TASK
+
+## Current Tasks
+- [x] Create the Phase 1 prepared-data workspace and initialize live processing and audit logs
+- [x] Prepare analysis-ready derived text files for all included core sources with provenance and quality tracking
+- [x] Create case-level familiarisation memos and per-source summaries without formal coding or findings
+- [x] Produce the Phase 1 preparation summary and report exact prepared/skipped files and data quality issues
+- [x] Produce a file-level Phase 1 preparation manifest covering every inventoried raw file and its provenance/preparation status
+- [x] Produce a provenance completeness report verifying file-level linkage and orphan status
+- [x] Create and populate a live Phase 1 translation decision log for all mixed-language handling decisions
+- [x] Revise the Phase 1 summary and familiarisation memos to close Phase 1.1 evidentiary gaps
+- [x] Complete CASE_D1-only re-reading, question mapping, and source-bounded segmentation using Day 1 prepared materials only
+- [x] Create the CASE_D1 coded segments dataset, working codebook, and required reflexive memos
+- [x] Develop CASE_D1-only candidate themes, final themes, excerpt bank, and Day 1 salience matrix
+- [x] Write the CASE_D1 within-case thematic report and update the live documentation layer
+- [x] Complete the CASE_D1 correction pass for CSV integrity, guide reconciliation, and documentation consistency
+- [x] Revise the CASE_D1 final academic report into a question-led Day 1 report with appendix-shifted method detail and revised relative prominence framing
+- [x] Complete the final readability and presentation polish for the revised CASE_D1 Day 1 report without changing the substantive findings, theme structure, or prominence judgements
+- [x] Create a separate CASE_D1 methodology markdown file explaining what was done and how the within-case analysis was carried out
+- [x] Clarify in the CASE_D1 methodology file that each day will be analysed separately first and a combined analysis will be produced later
+- [x] Create a full standalone project methodology covering the complete multi-case analysis design across all five day-based stakeholder cases
+  - [x] Create a reusable master day-by-day case analysis workflow file so future case work can be completed without skipping required steps
+  - [x] Revise the full project methodology and case workflow to make matrices, participant summaries, quotation diversity, tables, charts, and Excel reporting outputs formal parts of the method
+  - [x] Create the reporting output framework with project workbooks, visuals and tables folders, and a reporting method note
+  - [x] Revise CASE_D1 evidence handling so moderator or question-like framing is treated as context only and excluded from participant-evidence and theme-evidence counts
+  - [x] Create a single CASE_D1 bundle folder under `analysis/case_bundles/` so all main Day 1 analysis files are easier to find in one place
+  - [x] Normalize CASE_D1 report naming so only one final academic report remains in the main reports folder and Day 1 bundle
+  - [x] Populate the CASE_D1_Participants sheet in Participants_Master.xlsx with 19 participant summaries linked to questions, codes, and themes, and export a standalone CASE_D1_Participants.csv; both synced into CASE_D1_bundle
+  - [x] Create the CASE_D1 submission_data folder with the full reviewer package (final report, methodology, key quotations, question-by-theme matrix, theme prominence, participant summary, summary tables, README)
+  - [x] Run CASE_D1 reconciliation pass: fix Theme 3 name truncation, Q3×Theme1 matrix mismatch, and unsupported Theme 2 Q4 claim; verify consistency across all submission files
+  - [x] Create 7-gate QA specification for CASE_D2 onward (`analysis/03_methods/case_qa_gate_specification.md` and `.windsurf/workflows/case-day-analysis.md`)
+- [ ] Complete CASE_D2 within-case thematic analysis following the 7-gate controlled workflow
+- [x] Refresh the full corpus inventory and case register after the amended day-folder update
+- [x] Revise the full-project methodology and QA workflow for corpus amendment handling and structured recommendation sheets
+- [x] Inspect `Health_Workshop_Suggestions Day 1.xlsx` and create a formal treatment decision note
+- [ ] Rerun `CASE_D1` from scratch using the refreshed Day 1 source base and rebuild all Day 1 artifacts
+- [ ] Create the refreshed `CASE_D1` cross-check report, refresh version note, and superseding submission package
+
+## Discovered During Work
+- [x] Reconcile duplicate Phase 1 processing-log and audit-trail identifiers created by the initial script counter values
+- [x] Replace the weak Day 5 non-Latin derived filename slug with a deterministic fallback slug and update linked provenance records
+- [x] Document file-level provenance completeness and explicit translation-handling decisions before Phase 1 approval
+- [x] Document that the initial CASE_D1 question mapping was created before a separate guide file was available in the workspace and later reconciled against the reviewed uploaded guide during the correction pass
+- [ ] Treat the expanded day-folder corpus as a formal corpus-amendment event, refresh inventory/method rules, and supersede the old `CASE_D1` outputs after rerun
+- [x] Build refreshed `CASE_D1` Gate 1 rerun controls: source register, participant register, preparation checklist, and schema-lock note with explicit `speaker_type` handling
+- [x] Reconcile the refreshed `CASE_D1` participant register to substantive participant evidence only by removing duplicate honorific references and downgrading non-substantive attendee labels
