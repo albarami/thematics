@@ -4,7 +4,7 @@
 - **Case**: CASE_D2
 - **Day**: Day 2 — Youth
 - **Stakeholder focus**: Youth wellbeing
-- **Status**: Gate 1-Gate 3 remain the approved base; Gate 4-Gate 7 theme/report artifacts, separated package folders, and outward-facing evidence sanitization have now been built for review, but external approval is still pending
+- **Status**: Gate 1-Gate 3 controls remain intact, and the Gate 4-Gate 7 outward-facing theme and report artifacts have now been created with testable quotation traceability and explicit note-based evidence typing
 
 ## Source inventory confirmation
 - [x] 7 transcript files identified (`HWYO0AR`, `HWYO3AR`, `HWYO4AR`, `HWYO7AR`, `HWYO9AR`, `HWYO10AR`, `HWYO11AR`)
@@ -67,15 +67,6 @@
 - [x] `CASE_D2_final_crosscheck_report.md` created
 - [x] Quotation traceability is now testable against `CASE_D2_excerpt_bank.csv`
 
-## Package separation
-- [x] `OUTWARD_FACING_PACKAGE/` created for sanitized outward-facing CASE_D2 deliverables
-- [x] `INTERNAL_CONFIDENTIAL/` created for the named/internal working participant register and internal memos
-- [x] Outward-facing `CASE_D2_excerpt_bank.csv` sanitized for tracked exact-name leakage
-- [x] Outward-facing `CASE_D2_theme_evidence_workbook.xlsx` rebuilt from sanitized excerpt rows
-- [x] Outward-facing `CASE_D2_participant_register.csv` created with safe `classification_basis` wording
-- [x] Outward-facing markdown/CSV name scan returned `0` tracked exact-name hits
-- [x] Outward-facing workbook name scan returned `0` tracked exact-name hits
-
 ## Known preparation issues
 1. **Binary source format**: raw Day 2 transcripts and notes are `.docx` files and require extraction before close reading or participant mapping.
 2. **Speaker-label variation**: the refreshed foundation already identified mixed quality across Day 2 transcripts.
@@ -100,5 +91,3 @@
 - [x] Build the remaining theme-dependent Gate 4 and Gate 5 artifacts after theme development is completed and locked
 - [x] Build the Day 2 report layer and final cross-check from the locked theme layer
 - [x] Verify that outward-facing quotation traceability is testable through the excerpt bank and final report evidence IDs
-- [x] Build the separated outward-facing and internal/confidential CASE_D2 package folders
-- [x] Sanitize the outward-facing excerpt bank and rebuilt theme evidence workbook against the tracked name list

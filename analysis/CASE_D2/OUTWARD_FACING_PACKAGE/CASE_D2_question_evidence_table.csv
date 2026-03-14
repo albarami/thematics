@@ -1,0 +1,8 @@
+﻿question_id,participant_segments,moderator_segments,unclear_segments,unique_participant_speakers,source_files,top_codes
+Q1,26,9,2,22,HWYO0AR.docx;HWYO10AR.docx;HWYO11AR.docx;HWYO4AR.docx;HWYO9AR.docx,balance_multidimensional;support_as_wellbeing_core;contentment_acceptance;inner_peace_stability;functionality_self_management
+Q2,45,12,1,24,HWYO0AR.docx;HWYO10AR.docx;HWYO11AR.docx;HWYO4AR.docx;HWYO9AR.docx,functionality_self_management;balance_multidimensional;spiritual_moral_anchor;contentment_acceptance;inner_peace_stability
+Q3,43,19,1,19,HWYO0AR.docx;HWYO11AR.docx;HWYO4AR.docx;HWYO7AR.docx;HWYO9AR.docx,balance_multidimensional;spiritual_moral_anchor;family_support_ecology;peer_belonging_isolation;support_as_wellbeing_core
+Q4,44,21,0,19,HWYO0AR.docx;HWYO10AR.docx;HWYO4AR.docx;HWYO9AR.docx,top_down_system_change;access_delay_waiting;healthcare_worker_wellbeing;interdisciplinary_integration;balance_multidimensional
+Q5,30,16,0,18,HWYO0AR.docx;HWYO11AR.docx;HWYO4AR.docx;HWYO7AR.docx;HWYO9AR.docx,balance_multidimensional;language_cultural_mismatch;patient_provider_relationship;access_delay_waiting;consultation_time_pressure
+Q6,14,8,11,11,HWYO0AR.docx;HWYO11AR.docx;HWYO9AR.docx,communication_training_need;interdisciplinary_integration;top_down_system_change;patient_provider_relationship;practical_recommendation
+Q7,10,7,2,5,HWYO11AR.docx;HWYO7AR.docx;HWYO9AR.docx,practical_recommendation;awareness_outreach;family_support_ecology;support_as_wellbeing_core;balance_multidimensional

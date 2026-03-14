@@ -55,10 +55,12 @@
  - [x] Complete the `CASE_D2` familiarisation memo set by creating the Day 2 source sensitivity memo, language memo, boundary memo, and familiarisation memo on the refreshed Day 2 source base
  - [x] Lock `CASE_D2` Gate 2 with `CASE_D2_schema_check.md` using the active `CASE_D1` artifact schemas and explicit `speaker_type` rules
  - [x] Create `CASE_D2_working_codebook.md` as the first Day 2 coding artifact, using the active Day 1 markdown codebook structure but Day 2-specific code families
- - [x] Promote the cleaned `CASE_D2` segment base into `CASE_D2_coded_segments.csv` and build the linked `CASE_D2_participant_summary.csv` and `CASE_D2_question_evidence_table.csv` artifacts
- - [x] Refine `CASE_D2` segment-level coding beyond provisional `general_response` and `moderator_context` through a first-pass codebook-based recoding build, and regenerate the linked Day 2 summary tables from that richer base
- - [x] Manually review and tighten the first-pass `CASE_D2` coding layer and regenerate the linked Day 2 summary tables from the reviewed coded base
- - [x] Build `CASE_D2_participant_workbook.xlsx` from the reviewed coded base using the established `CASE_D1` workbook pattern
- - [x] Build `CASE_D2_coding_integrity_report.md` from the reviewed coded base and current linked Gate 3 artifacts
- - [ ] Build the remaining theme-dependent `CASE_D2` Gate 4 and Gate 5 artifacts from the reviewed coded base after theme development is completed and locked
-
+  - [x] Promote the cleaned `CASE_D2` segment base into `CASE_D2_coded_segments.csv` and build the linked `CASE_D2_participant_summary.csv` and `CASE_D2_question_evidence_table.csv` artifacts
+  - [x] Refine `CASE_D2` segment-level coding beyond provisional `general_response` and `moderator_context` through a first-pass codebook-based recoding build, and regenerate the linked Day 2 summary tables from that richer base
+  - [x] Manually review and tighten the first-pass `CASE_D2` coding layer and regenerate the linked Day 2 summary tables from the reviewed coded base
+  - [x] Build `CASE_D2_participant_workbook.xlsx` from the reviewed coded base using the established `CASE_D1` workbook pattern
+  - [x] Build `CASE_D2_coding_integrity_report.md` from the reviewed coded base and current linked Gate 3 artifacts
+  - [x] Build the remaining theme-dependent `CASE_D2` Gate 4 and Gate 5 artifacts from the reviewed coded base after theme development is completed and locked
+  - [x] Build the `CASE_D2` outward-facing report layer, explicit note-based evidence handling, and final cross-check from the locked Day 2 theme layer
+  - [x] Build any remaining `CASE_D2` visual/report-aid outputs and package-support tables needed to mirror the final Day 1 outward-facing standard
+  - [x] Assemble and verify a final `CASE_D2` outward-facing submission/package folder before marking Day 2 fully complete
