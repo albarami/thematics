@@ -1,0 +1,37 @@
+﻿anonymized_code,source_file,table_id,speaker_type,role_label,turns,chars,classification_basis
+D4_M01,HWEL1AR.docx,1,moderator,"Moderator, Table 1",5,2128,Classified as moderator from facilitation turns and source-role review.
+D4_M02,HWEL3AR.docx,3,moderator,"Moderator, Table 3",6,308,Classified as moderator from facilitation turns and source-role review.
+D4_M03,HWEL4NT1.docx,4,moderator,"Moderator, Table 4",0,0,Classified as moderator from the source register because the source is note-only or does not preserve stable moderator turns.
+D4_M04,HWEL6NT1.docx,6,moderator,"Moderator, Table 6",0,0,Classified as moderator from the source register because the source is note-only or does not preserve stable moderator turns.
+D4_M05,HWEL7AR.docx,7,moderator,"Moderator, Table 7",44,4995,Classified as moderator from facilitation turns and source-role review.
+D4_M06,HWEL9AR.docx,9,moderator,"Moderator, Table 9",31,2031,Classified as moderator from facilitation turns and source-role review.
+D4_M07,HWEL10AR.docx,10,moderator,"Moderator, Table 10",2,425,Classified as moderator from facilitation turns and source-role review.
+D4_P01,HWEL1AR.docx,1,participant,"Participant, role not stated, Table 1",3,4260,Classified as participant from repeated substantive turns and source-role review.
+D4_P02,HWEL1AR.docx,1,participant,"Director of Pharmacy, Table 1",3,7857,Classified as participant from repeated substantive turns and source-role review.
+D4_P03,HWEL1AR.docx,1,participant,"Home care participant, Hamad Medical Corporation, Table 1",4,2418,Classified as participant from repeated substantive turns and source-role review.
+D4_P04,HWEL1AR.docx,1,participant,"Service recipient, Table 1",3,1747,Classified as participant from repeated substantive turns and source-role review.
+D4_P05,HWEL1AR.docx,1,participant,"Participant, Hamad Medical Corporation, Table 1",2,969,Classified as participant from repeated substantive turns and source-role review.
+D4_P06,HWEL1AR.docx,1,participant,"Participant, role not stated, Table 1",2,950,Classified as participant from repeated substantive turns and source-role review.
+D4_P07,HWEL1AR.docx,1,participant,"Participant, role not stated, Table 1",1,1112,Classified as participant from repeated substantive turns and source-role review.
+D4_P08,HWEL3AR.docx,3,participant,"Participant, Hamad Medical Corporation, Table 3",12,10193,Classified as participant from repeated substantive turns and source-role review.
+D4_P09,HWEL3AR.docx,3,participant,"Psychologist, Ihsan Center, Table 3",2,1000,Classified as participant from repeated substantive turns and source-role review.
+D4_P10,HWEL3AR.docx,3,participant,"Social-welfare / social-work participant, Table 3",4,3873,Classified as participant from repeated substantive turns and source-role review.
+D4_P11,HWEL3AR.docx,3,participant,"Participant, role not stated, Table 3",2,1011,Classified as participant from repeated substantive turns and source-role review.
+D4_P12,HWEL3AR.docx,3,participant,"Occupational therapy, elderly care, Hamad Medical Corporation, Table 3",8,8398,Classified as participant from repeated substantive turns and source-role review.
+D4_P13,HWEL7AR.docx,7,participant,"Rehabilitation-hospital participant, Table 7",10,7202,Classified as participant from repeated substantive turns and source-role review.
+D4_P14,HWEL7AR.docx,7,participant,"Home care physician, Table 7",13,13291,Classified as participant from repeated substantive turns and source-role review.
+D4_P15,HWEL7AR.docx,7,participant,"Participant, role not stated, Table 7",19,7481,Classified as participant from repeated substantive turns and source-role review.
+D4_P16,HWEL7AR.docx,7,participant,"Participant, role not stated, Table 7",4,2214,Classified as participant from repeated substantive turns and source-role review.
+D4_P17,HWEL7AR.docx,7,participant,"Elderly-center participant, Table 7",10,6507,Classified as participant from repeated substantive turns and source-role review.
+D4_P18,HWEL7AR.docx,7,participant,"Service recipient, Table 7",1,45,Classified as participant from repeated substantive turns and source-role review.
+D4_P19,HWEL7AR.docx,7,participant,"Participant, role not stated, Table 7",2,83,Classified as participant from repeated substantive turns and source-role review.
+D4_P20,HWEL7AR.docx,7,participant,"Senior public-sector leader, Table 7",5,3590,Classified as participant from repeated substantive turns and source-role review.
+D4_P21,HWEL7AR.docx,7,participant,"Participant, role not stated, Table 7",2,1273,Classified as participant from repeated substantive turns and source-role review.
+D4_P22,HWEL9AR.docx,9,participant,"Social worker, Ihsan Center, Table 9",176,11813,Classified as participant from repeated substantive turns and source-role review.
+D4_P23,HWEL9AR.docx,9,participant,"Acute geriatric and elderly care, Hamad Medical Corporation, Table 9",143,10609,Classified as participant from repeated substantive turns and source-role review.
+D4_P24,HWEL9AR.docx,9,participant,"Senior pharmacist, Naufar, Table 9",16,1514,Classified as participant from repeated substantive turns and source-role review.
+D4_P25,HWEL9AR.docx,9,participant,"Service recipient / patient voice, Table 9",298,20364,Classified as participant from repeated substantive turns and source-role review.
+D4_P26,HWEL10AR.docx,10,participant,"Consultant in family medicine, PHCC, Table 10",6,2601,Classified as participant from repeated substantive turns and source-role review.
+D4_P27,HWEL10AR.docx,10,participant,"Student, HBKU, Table 10",5,1767,Classified as participant from repeated substantive turns and source-role review.
+D4_P28,HWEL10AR.docx,10,participant,"Rumailah Hospital participant, Table 10",6,2568,Classified as participant from repeated substantive turns and source-role review.
+D4_P29,HWEL10AR.docx,10,participant,"Qatar University participant, Table 10",4,2344,Classified as participant from repeated substantive turns and source-role review.

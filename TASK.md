@@ -82,12 +82,15 @@
   - [x] Build `CASE_D4` Gate 1 and Gate 2 control files on the refreshed Day 4 source base
   - [x] Create `CASE_D4_working_codebook.md` as the first Day 4 coding artifact
   - [x] Promote the cleaned `CASE_D4` segment base into `CASE_D4_coded_segments.csv`, build linked summary artifacts, and write `CASE_D4_coding_integrity_report.md`
-  - [ ] Build the remaining theme-dependent `CASE_D4` Gate 4 and Gate 5 artifacts
-  - [ ] Build the `CASE_D4` outward-facing report layer and final cross-check
-  - [ ] Assemble and verify a final `CASE_D4` outward-facing submission/package folder before marking Day 4 fully complete
+  - [x] Build the remaining theme-dependent `CASE_D4` Gate 4 and Gate 5 artifacts
+  - [x] Build the `CASE_D4` outward-facing report layer and final cross-check
+  - [x] Assemble and verify a final `CASE_D4` outward-facing submission/package folder before marking Day 4 fully complete
 
 ## Discovered During Work
 - [x] Stabilize `CASE_D3` question mapping in `build_case_d3_segment_candidates.py` using forward-only detection, source-specific breakpoints, and recovered English summary handling before Day 3 promotion
 - [x] Tighten `CASE_D3` theme-layer matching with question-bounded interpretive theme rules and explicit close-reading support labels before building the Day 3 Gate 4 evidence layer
 - [x] Build `CASE_D4` Gate 1 control files: source register (13 rows), participant register (36 rows: 29 participants + 7 moderators), question map, preparation checklist, and recommendation usage rule — all grounded in extracted Day 4 transcript and note evidence
 - [x] Build `CASE_D4` Gate 2 artifacts: schema check (CASE_D1 baseline lock), familiarisation memo, source sensitivity memo, language memo, and boundary memo
+- [x] Build `CASE_D4` Gate 4 theme files, excerpt bank, matrix, prominence, workbook, and integrity checks from the approved Day 4 coded base
+- [x] Finalize `CASE_D4` Gate 6 / Gate 7 outputs, sanitize the outward-facing package, and keep `participant_identity_key.xlsx` internal only
+
