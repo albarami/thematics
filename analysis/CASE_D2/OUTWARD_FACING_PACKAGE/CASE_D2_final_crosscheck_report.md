@@ -1,13 +1,13 @@
 # CASE_D2 Final Cross-Check Report
 
 ## Case: CASE_D2 — Day 2 (Youth)
-## Status: VERIFIED FOR CURRENT GATE 7 CROSS-CHECKS — outward-facing/internal package separation prepared
+## Status: CORRECTED AFTER FINAL NARROW CASE_D2 CLEANUP PASS — current repo-backed package layer rechecked
 
 ---
 
 ## Cross-check summary
 
-This report documents the current within-case consistency check across the Day 2 theme layer, report layer, and separated outward-facing/internal package structure. It does not itself claim external approval or final case sign-off. The named working participant register is retained only in `INTERNAL_CONFIDENTIAL/`, while the outward-facing participant register uses a safe classification basis.
+This report documents the current within-case consistency check across the Day 2 theme layer, report layer, and separated outward-facing/internal package structure. It does not itself claim external approval or final case sign-off. The named working participant register and an explicit `participant_identity_key.xlsx` are retained only in `INTERNAL_CONFIDENTIAL/`, while the outward-facing participant register uses a safe classification basis.
 
 ## Separated package inventory
 
@@ -33,11 +33,12 @@ This report documents the current within-case consistency check across the Day 2
 | CASE_D2_theme_integrity_report.md | Gate 4 check |
 | CASE_D2_theme_summary_table.csv | Theme overview table |
 
-### Internal/confidential package (`INTERNAL_CONFIDENTIAL/`) — 6 files
+### Internal/confidential package (`INTERNAL_CONFIDENTIAL/`) — 7 files
 
 | File | Description |
 |------|-------------|
 | CASE_D2_participant_register.csv | Named/internal working register retained for confidential traceability only |
+| participant_identity_key.xlsx | Explicit internal-only identity traceability workbook |
 | CASE_D2_preparation_checklist.md | Internal preparation checklist |
 | CASE_D2_familiarisation_memo.md | Internal analytic familiarisation memo |
 | CASE_D2_source_sensitivity_memo.md | Internal source-sensitivity memo |
@@ -73,7 +74,7 @@ This report documents the current within-case consistency check across the Day 2
 | 7 | Prominence and theme summary outputs are generated from one ranked salience calculation | PASS |
 | 8 | Outward-facing and internal/confidential files are separated clearly | PASS |
 | 9 | No real names remain in outward-facing files from the tracked name list | PASS |
-| 10 | Contradictions remaining in the current CASE_D2 package layer | PASS — 0 identified |
+| 10 | Contradictions remaining in the current CASE_D2 package layer | PASS — 0 identified after correcting the prior participant-numbering wording mismatch and recording the explicit internal identity-key boundary |
 
 **Errors:** 0
 **Warnings:** 0

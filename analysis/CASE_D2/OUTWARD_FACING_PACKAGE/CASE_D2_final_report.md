@@ -11,7 +11,7 @@ This report presents the findings of a within-case reflexive thematic analysis o
 ### 1.1 Scope and boundaries
 - **Case**: `CASE_D2` only. No cross-case comparisons.
 - **Sources**: 7 transcripts (`HWYO0AR`, `HWYO3AR`, `HWYO4AR`, `HWYO7AR`, `HWYO9AR`, `HWYO10AR`, `HWYO11AR`), 10 note-taker files, 1 auxiliary recommendation workbook.
-- **Participants**: 38 confirmed participants (`D2_P01–D2_P38` with non-contiguous numbering where identities were not recoverable for all tables), 10 moderators (`D2_M01–D2_M10`), and 2 register-level unclear speaker rows across 7 tables.
+- **Participants**: 38 confirmed participants (`D2_P01–D2_P38` in contiguous outward-facing numbering), 10 moderators (`D2_M01–D2_M10`), and 2 register-level unclear speaker rows across 7 tables.
 - **Structured coded base**: 321 coded segments = 212 participant + 92 moderator + 17 unclear.
 - **Discussion structure**: Seven questions (`Q1–Q7`) spanning conceptual understanding of wellbeing (Q1-Q3) and healthcare reality, challenges, opportunities, and practical suggestions (Q4-Q7).
 - **Analytical approach**: Reflexive thematic analysis with explicit `speaker_type` distinction maintained throughout (`participant`, `moderator`, `unclear`, `note_taker_summary`).
