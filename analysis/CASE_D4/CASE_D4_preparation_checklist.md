@@ -2,6 +2,7 @@
 
 ## Scope
 CASE_D4 (Day 4 — Elderly). This checklist tracks the completion of Gate 1 and Gate 2 preparation artifacts before coding begins.
+Gate 3 and later status are tracked separately in `TASK.md` and the gate-specific Day 4 reports; this file remains intentionally limited to pre-coding preparation.
 
 ---
 

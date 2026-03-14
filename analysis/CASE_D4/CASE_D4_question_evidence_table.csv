@@ -1,8 +1,8 @@
 ﻿question_id,participant_segments,moderator_segments,unclear_segments,unique_participant_speakers,source_files,top_codes
-Q1,39,10,0,20,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,spiritual_moral_anchor;family_caregiver_ecology;mental_health_elderly;balance_multidimensional;contentment_acceptance
-Q2,33,12,0,20,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,family_caregiver_ecology;spiritual_moral_anchor;age_dignity_language;dignity_autonomy;mental_health_elderly
-Q3,122,12,0,19,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,spiritual_moral_anchor;balance_multidimensional;family_caregiver_ecology;age_dignity_language;practical_suggestion
-Q4,112,17,0,13,HWEL10AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,service_adequacy_reflection;spiritual_moral_anchor;balance_multidimensional;age_dignity_language;institutional_example
-Q5,109,11,0,15,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,service_adequacy_reflection;balance_multidimensional;age_dignity_language;spiritual_moral_anchor;institutional_example
-Q6,79,7,0,9,HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,spiritual_moral_anchor;family_caregiver_ecology;service_adequacy_reflection;institutional_example;balance_multidimensional
-Q7,116,11,0,11,HWEL10AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,practical_suggestion;awareness_education;family_caregiver_ecology;service_adequacy_reflection;spiritual_moral_anchor
+Q1,40,11,0,22,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,family_caregiver_ecology;mental_health_elderly;spiritual_moral_anchor;balance_multidimensional;contentment_acceptance
+Q2,32,13,0,18,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,family_caregiver_ecology;age_dignity_language;mental_health_elderly;dignity_autonomy;spiritual_moral_anchor
+Q3,124,11,0,20,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,spiritual_moral_anchor;balance_multidimensional;family_caregiver_ecology;practical_suggestion;service_adequacy_reflection
+Q4,115,18,0,16,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,service_adequacy_reflection;spiritual_moral_anchor;balance_multidimensional;institutional_example;age_dignity_language
+Q5,108,11,0,18,HWEL10AR.docx;HWEL1AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,service_adequacy_reflection;balance_multidimensional;age_dignity_language;institutional_example;spiritual_moral_anchor
+Q6,83,8,0,11,HWEL10AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,family_caregiver_ecology;service_adequacy_reflection;spiritual_moral_anchor;institutional_example;practical_suggestion
+Q7,117,10,0,13,HWEL10AR.docx;HWEL3AR.docx;HWEL7AR.docx;HWEL9AR.docx,practical_suggestion;awareness_education;balance_multidimensional;service_adequacy_reflection;spiritual_moral_anchor

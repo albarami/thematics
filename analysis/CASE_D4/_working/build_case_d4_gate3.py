@@ -173,22 +173,23 @@ QUESTION_MARKERS: Final = [
     ("Q4", ["هل تنعكس ركائز الحياة الطيبة", "هل هي ركائز الحياه الطيبه موجوده",
             "pillars in the current healthcare", "من واقع تجربتك",
             "based on your experience"]),
-    ("Q5", ["ما التحديات الرئيسية", "التحديات", "challenges",
-            "ما هي الصعوبات", "التحدي"]),
-    ("Q6", ["ما الفرص المتاحة", "الفرص", "opportunities",
-            "فرص متاحة", "ما هي الفرص"]),
-    ("Q7", ["اقتراحاتكم العملية", "الحلول", "المقترحات", "suggestions",
-            "practical suggestions", "ننتقل للمقترحات"]),
+    ("Q5", ["ما التحديات الرئيسية", "التحديات", "ما هي الصعوبات", "التحدي",
+            "the biggest challenges", "challenge:", "challenges:"]),
+    ("Q6", ["ما الفرص المتاحة", "الفرص", "فرص متاحة", "ما هي الفرص",
+            "opportunity:", "opportunities:", "available opportunities"]),
+    ("Q7", ["اقتراحاتكم العملية", "الحلول", "المقترحات",
+            "practical suggestions", "ننتقل للمقترحات",
+            "(suggestion):", "suggestion:", "suggestions:"]),
 ]
 
 # Source-specific paragraph breakpoints (1-indexed paragraph numbers)
 SOURCE_BREAKPOINTS: Final[dict[str, list[tuple[int, str]]]] = {
     "HWEL10AR.docx": [
-        (1, "Q1"),   # Part 1: Defining Well-being
-        (18, "Q2"),  # Part 2: Describing Someone as "Well"
-        (23, "Q3"),  # Part 3: The Five Pillars
-        (28, "Q4"),  # Part 4: Pillars in Healthcare
-        (34, "Q5"),  # Part 5: Challenges and Suggestions (combined Q5-Q7)
+        (2, "Q1"),   # Part 1 moderator question / first substantive content
+        (13, "Q2"),  # Part 2 first substantive response after header at paragraph 12
+        (18, "Q3"),  # Part 3 first substantive response after header at paragraph 17
+        (23, "Q4"),  # Part 4 first substantive response after header at paragraph 22
+        (29, "Q5"),  # Part 5 first substantive response after header at paragraph 28
     ],
     "HWEL1AR.docx": [
         (2, "Q1"),   # Moderator opens with Q1
@@ -386,14 +387,15 @@ TEXT_CODE_PATTERNS: Final[dict[str, list[str]]] = {
         "depends on the individual", "ثقافة المؤسسة", "غير مطلوب"],
     "awareness_education": ["توعية", "awareness", "education", "campaign",
         "تثقيف صحي", "workshops", "حملات"],
-    "technology_integration": ["تكنولوجيا", "AI", "digital", "app",
-        "chatbot", "ذكاء اصطناعي", "تطبيقات", "wearable", "sensor"],
+    "technology_integration": ["تكنولوجيا", "technology", "digital",
+        "artificial intelligence", "apps", "chatbot", "ذكاء اصطناعي",
+        "تطبيقات", "wearable", "sensor", "platform"],
     "training_development": ["برامج تأهيل", "training program",
         "specialisation", "تخصص أكاديمي"],
     "policy_recommendation": ["سياسة", "policy", "ministry", "institutional",
         "mandatory", "مؤسساتية", "وزارة"],
-    "practical_suggestion": ["اقتراح", "suggest", "recommend", "should",
-        "need to", "لازم", "يجب", "ينبغي", "مقترح"],
+    "practical_suggestion": ["اقتراح", "suggest", "recommend",
+        "لازم", "يجب", "ينبغي", "مقترح"],
     "interdisciplinary_model": ["فريق طبي كامل", "collaboration",
         "interdisciplinary", "بين التخصصات"],
     "epigenetics_precision": ["epigenetics", "precision medicine",
@@ -467,7 +469,9 @@ def _derive_codes(row: dict[str, str]) -> set[str]:
         codes.add("practical_suggestion")
 
     if row["question_id"] in {"Q6", "Q7"} and _contains_any(lowered,
-            ["ai", "technology", "digital", "تكنولوجيا", "ذكاء اصطناعي"]):
+            ["technology", "digital", "artificial intelligence",
+             "apps", "chatbot", "تكنولوجيا", "ذكاء اصطناعي",
+             "تطبيقات", "wearable", "sensor", "platform"]):
         codes.add("technology_integration")
         codes.add("practical_suggestion")
 
@@ -516,6 +520,35 @@ def _ordered_codes(codes: set[str]) -> list[str]:
     return sorted(codes, key=lambda c: (order_map.get(c, len(order_map)), c))
 
 
+def _flush_active_segment(
+    rows: list[dict[str, str]],
+    seg_counter: int,
+    source: str,
+    table_id: str,
+    speaker: dict[str, str] | None,
+    question_id: str | None,
+    active_parts: list[str],
+    language: str,
+) -> tuple[int, int]:
+    if speaker is None or not active_parts or not question_id:
+        return seg_counter, 0
+    content = " ".join(active_parts)
+    if not _is_substantive(content):
+        return seg_counter, 0
+    rows.append(
+        _build_segment_row(
+            seg_counter,
+            source,
+            table_id,
+            speaker,
+            question_id,
+            content,
+            language,
+        )
+    )
+    return seg_counter + 1, 1
+
+
 # ---------------------------------------------------------------------------
 # Segment extraction
 # ---------------------------------------------------------------------------
@@ -547,22 +580,38 @@ def _extract_segments() -> tuple[list[dict[str, str]], list[str]]:
                 continue
 
             para_num = idx + 1
-            current_q = _apply_breakpoints(source, para_num, current_q)
-            current_q = _detect_question(text, current_q)
+            previous_q = current_q
+            next_q = _apply_breakpoints(source, para_num, current_q)
+            next_q = _detect_question(text, next_q)
+            if previous_q and next_q != previous_q and active_speaker and active_parts:
+                seg_counter, added = _flush_active_segment(
+                    rows,
+                    seg_counter,
+                    source,
+                    table_id,
+                    active_speaker,
+                    previous_q,
+                    active_parts,
+                    lang,
+                )
+                extracted += added
+                active_parts = []
+            current_q = next_q
 
             matched, remainder = _match_label(text, alias_lookup)
 
             if matched is not None:
-                if active_speaker and active_parts and current_q:
-                    content = " ".join(active_parts)
-                    if _is_substantive(content):
-                        row = _build_segment_row(
-                            seg_counter, source, table_id, active_speaker,
-                            current_q, content, lang,
-                        )
-                        rows.append(row)
-                        seg_counter += 1
-                        extracted += 1
+                seg_counter, added = _flush_active_segment(
+                    rows,
+                    seg_counter,
+                    source,
+                    table_id,
+                    active_speaker,
+                    current_q,
+                    active_parts,
+                    lang,
+                )
+                extracted += added
                 active_speaker = matched
                 active_parts = [remainder] if remainder else []
                 continue
@@ -572,16 +621,17 @@ def _extract_segments() -> tuple[list[dict[str, str]], list[str]]:
             elif current_q and _is_substantive(text):
                 unmatched_labels.add(text[:60])
 
-        if active_speaker and active_parts and current_q:
-            content = " ".join(active_parts)
-            if _is_substantive(content):
-                row = _build_segment_row(
-                    seg_counter, source, table_id, active_speaker,
-                    current_q, content, lang,
-                )
-                rows.append(row)
-                seg_counter += 1
-                extracted += 1
+        seg_counter, added = _flush_active_segment(
+            rows,
+            seg_counter,
+            source,
+            table_id,
+            active_speaker,
+            current_q,
+            active_parts,
+            lang,
+        )
+        extracted += added
 
         notes.append(f"## {source}")
         notes.append(f"- Paragraphs: {len(paragraphs)}")

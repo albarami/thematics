@@ -2,12 +2,12 @@
 
 ## HWEL10AR.docx
 - Paragraphs: 41
-- Extracted segments: 23
+- Extracted segments: 31
 - Unmatched text lines: 0
 
 ## HWEL1AR.docx
 - Paragraphs: 63
-- Extracted segments: 23
+- Extracted segments: 25
 - Unmatched text lines: 1
   - فما معنى حياتك الطيبة بالنسبة للك؟ فه حد بيحب انه يبدأ الجلس
 
@@ -18,7 +18,7 @@
 
 ## HWEL7AR.docx
 - Paragraphs: 113
-- Extracted segments: 106
+- Extracted segments: 107
 - Unmatched text lines: 0
 
 ## HWEL9AR.docx
