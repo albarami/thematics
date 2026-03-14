@@ -13,6 +13,7 @@ CASE_DIR = ROOT / "analysis" / "CASE_D3"
 WORKING_DIR = CASE_DIR / "_working"
 CANDIDATE_SEGMENTS = WORKING_DIR / "CASE_D3_segment_candidates.csv"
 CODED_SEGMENTS = CASE_DIR / "CASE_D3_coded_segments.csv"
+PARTICIPANT_REGISTER = CASE_DIR / "CASE_D3_participant_register.csv"
 PARTICIPANT_SUMMARY = CASE_DIR / "CASE_D3_participant_summary.csv"
 PARTICIPANT_WORKBOOK = CASE_DIR / "CASE_D3_participant_workbook.xlsx"
 QUESTION_EVIDENCE = CASE_DIR / "CASE_D3_question_evidence_table.csv"
@@ -312,7 +313,10 @@ def _recode_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
 
 
 
-def _build_participant_summary(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+def _build_participant_summary(
+    rows: list[dict[str, str]],
+    register_rows: list[dict[str, str]],
+) -> list[dict[str, str]]:
     grouped: dict[tuple[str, str, str, str], list[dict[str, str]]] = defaultdict(list)
     for row in rows:
         if row["speaker_type"] != "participant":
@@ -320,10 +324,30 @@ def _build_participant_summary(rows: list[dict[str, str]]) -> list[dict[str, str
         key = (row["speaker_code"], row["source_file"], row["table_id"], row["speaker_type"])
         grouped[key].append(row)
 
+    register_keys = {
+        (row["anonymized_code"], row["source_file"], row["table_id"], row["speaker_type"])
+        for row in register_rows
+        if row["speaker_type"] == "participant"
+    }
+
     summary_rows: list[dict[str, str]] = []
-    for key in sorted(grouped):
+    for key in sorted(register_keys | set(grouped)):
         speaker_code, source_file, table_id, speaker_type = key
-        group_rows = grouped[key]
+        group_rows = grouped.get(key, [])
+        if not group_rows:
+            summary_rows.append(
+                {
+                    "anonymized_code": speaker_code,
+                    "source_file": source_file,
+                    "table_id": table_id,
+                    "speaker_type": speaker_type,
+                    "segment_count": "0",
+                    "total_chars": "0",
+                    "questions_covered": "none",
+                    "top_codes": "none",
+                }
+            )
+            continue
         question_ids = sorted({row["question_id"] for row in group_rows if row["question_id"]}, key=_question_sort_key)
         code_counter: Counter[str] = Counter()
         for row in group_rows:
@@ -452,26 +476,12 @@ def _write_csv(csv_path: Path, fieldnames: list[str], rows: list[dict[str, str]]
 def main() -> None:
     """Promote the cleaned Day 3 segment base and build linked summary tables."""
     shutil.copyfile(CANDIDATE_SEGMENTS, CODED_SEGMENTS)
-    coded_rows = _recode_rows(_load_rows(CODED_SEGMENTS))
-    _write_csv(
-        CODED_SEGMENTS,
-        [
-            "segment_id",
-            "source_file",
-            "table_id",
-            "speaker_code",
-            "speaker_type",
-            "role_label",
-            "attribution_status",
-            "question_id",
-            "segment_text",
-            "codes",
-            "language",
-        ],
-        coded_rows,
-    )
+    candidate_rows = _load_rows(CANDIDATE_SEGMENTS)
+    coded_rows = _recode_rows(candidate_rows)
+    register_rows = _load_rows(PARTICIPANT_REGISTER)
+    _write_csv(CODED_SEGMENTS, list(coded_rows[0].keys()), coded_rows)
 
-    participant_summary_rows = _build_participant_summary(coded_rows)
+    participant_summary_rows = _build_participant_summary(coded_rows, register_rows)
     question_evidence_rows = _build_question_evidence(coded_rows)
 
     _write_csv(

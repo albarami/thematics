@@ -1,0 +1,8 @@
+﻿question_id,participant_segments,moderator_segments,unclear_segments,unique_participant_speakers,source_files,top_codes
+Q1,78,65,41,22,HWAD10AR.docx;HWAD1AR.docx;HWAD3AR.docx;HWAD4AR.docx;HWAD6AR.docx,balance_multidimensional;spiritual_moral_anchor;practical_recommendation;contentment_acceptance;family_caregiving_ecology
+Q2,81,24,11,14,HWAD10AR.docx;HWAD4AR.docx;HWAD6AR.docx,digital_admin_relief;spiritual_moral_anchor;work_life_strain;balance_multidimensional;family_caregiving_ecology
+Q3,96,21,42,16,HWAD10AR.docx;HWAD3AR.docx;HWAD4AR.docx;HWAD6AR.docx,balance_multidimensional;spiritual_moral_anchor;practical_recommendation;digital_admin_relief;family_caregiving_ecology
+Q4,106,56,98,16,HWAD10AR.docx;HWAD1AR.docx;HWAD3AR.docx;HWAD4AR.docx;HWAD6AR.docx,balance_multidimensional;consultation_time_pressure;digital_admin_relief;system_responsibility_orientation;work_life_strain
+Q5,90,55,58,20,HWAD10AR.docx;HWAD1AR.docx;HWAD3AR.docx;HWAD4AR.docx;HWAD6AR.docx,digital_admin_relief;consultation_time_pressure;practical_recommendation;balance_multidimensional;health_literacy_navigation
+Q6,23,33,21,11,HWAD1AR.docx;HWAD3AR.docx;HWAD4AR.docx;HWAD6AR.docx,practical_recommendation;system_responsibility_orientation;trust_questioning_barrier;awareness_outreach;consultation_time_pressure
+Q7,15,53,167,9,HWAD10AR.docx;HWAD1AR.docx;HWAD3AR.docx;HWAD4AR.docx;HWAD6AR.docx,practical_recommendation;consultation_time_pressure;spiritual_moral_anchor;balance_multidimensional;system_responsibility_orientation

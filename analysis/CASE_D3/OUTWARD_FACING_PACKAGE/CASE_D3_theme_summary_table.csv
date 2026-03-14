@@ -1,0 +1,5 @@
+﻿theme_number,theme_name,participant_segments,unique_speakers,unique_tables,questions_present,salience
+1,"Adult wellbeing as integrated balance, moral-spiritual grounding, and workable coping",143,21,4,Q1;Q2;Q3;Q4;Q5,most_prominent
+2,"Adult wellbeing as negotiated through family, work, caregiving, and role-bearing strain",121,15,4,Q1;Q2;Q3;Q4;Q5,highly_prominent
+3,"Holistic adult care undermined by time pressure, hierarchy, navigation gaps, and uneven communication",103,19,4,Q3;Q4;Q5;Q6;Q7,moderately_prominent
+4,"Coordinated, access-aware, and institutionally embedded routes to adult-care redesign",95,18,5,Q4;Q5;Q6;Q7,present_but_less_prominent

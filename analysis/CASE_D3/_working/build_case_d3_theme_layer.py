@@ -267,7 +267,7 @@ def _build_theme_integrity_report(rows: list[dict[str, str]], excerpt_rows: list
             "",
             "## Theme integrity summary",
             "",
-            "The Day 3 theme layer is built from the current promoted `CASE_D3_coded_segments.csv` base, the locked Day 3 theme markdown files, and the outward-facing `CASE_D3_excerpt_bank.csv`. Final theme names are locked across the theme markdown, excerpt bank, question-theme matrix, prominence layer, and theme evidence workbook. Participant-coded transcript rows remain the primary basis of theme support. `unclear` transcript rows are retained only where explicitly labeled, and only in the excerpt bank; they do not count toward participant diversity, question-theme counts, or prominence support. No `note_taker_summary` rows were operationalized in this initial Day 3 evidence layer; note files remain contextual references only.",
+            "The Day 3 theme layer is built from the current promoted `CASE_D3_coded_segments.csv` base, the locked Day 3 theme markdown files, and the current `CASE_D3_excerpt_bank.csv` evidence layer. Final theme names are locked across the theme markdown, excerpt bank, question-theme matrix, prominence layer, and theme evidence workbook. Participant-coded transcript rows remain the primary basis of theme support. `unclear` transcript rows are retained only where explicitly labeled, and only in the excerpt bank; they do not count toward participant diversity, question-theme counts, or prominence support. No `note_taker_summary` rows were operationalized in this initial Day 3 evidence layer; note files remain contextual references only.",
             "",
             "## Theme traceability table",
             "",
