@@ -1,7 +1,7 @@
 # CASE_D4 Matrix and Prominence Check
 
 ## Case: CASE_D4 — Day 4 (Elderly)
-## Status: VERIFIED FOR CURRENT THEME-LAYER MATRIX/PROMINENCE CHECKS — structured alignment is complete for the approved Day 4 matrix/prominence layer; CASE_D4 remains not complete and not package-ready at this stage-specific snapshot
+## Status: VERIFIED GATE 5 MATRIX/PROMINENCE RECORD — retained in the finalized CASE_D4 package as the locked Day 4 matrix/prominence verification supporting the completed case package
 
 ---
 
@@ -29,4 +29,4 @@ The Day 4 question-theme matrix and prominence layer are built directly from par
 | Theme_4_Institutionally_Embedded_and_Socially_Distributed_Routes_to_Elder_Care_Redesign | present_but_less_prominent | 70 | Q5;Q6;Q7 |
 
 **Errors:** 0
-**Warnings:** 1 — matrix/prominence alignment is verified for the current Day 4 theme layer, but this does not mean CASE_D4 is report-ready or package-ready.
+**Warnings:** 1 — this file remains a Gate 5 verification record inside the finalized CASE_D4 package and should be read together with the final report and final cross-check.

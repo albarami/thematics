@@ -265,7 +265,7 @@ def _build_theme_integrity_report(rows: list[dict[str, str]], excerpt_rows: list
             "# CASE_D4 Theme Integrity Report",
             "",
             "## Case: CASE_D4 — Day 4 (Elderly)",
-            "## Status: VERIFIED FOR CURRENT GATE 4 THEME-LAYER CHECKS — Gate 4 is internally aligned from the approved Day 4 coded base; CASE_D4 remains not complete and not package-ready at this stage-specific snapshot",
+            "## Status: VERIFIED GATE 4 THEME-INTEGRITY RECORD — retained in the finalized CASE_D4 package as the locked Day 4 theme-integrity check supporting the completed case package",
             "",
             "---",
             "",
@@ -320,7 +320,7 @@ def _build_matrix_prominence_check(
             "# CASE_D4 Matrix and Prominence Check",
             "",
             "## Case: CASE_D4 — Day 4 (Elderly)",
-            "## Status: VERIFIED FOR CURRENT THEME-LAYER MATRIX/PROMINENCE CHECKS — structured alignment is complete for the approved Day 4 matrix/prominence layer; CASE_D4 remains not complete and not package-ready at this stage-specific snapshot",
+            "## Status: VERIFIED GATE 5 MATRIX/PROMINENCE RECORD — retained in the finalized CASE_D4 package as the locked Day 4 matrix/prominence verification supporting the completed case package",
             "",
             "---",
             "",
@@ -348,7 +348,7 @@ def _build_matrix_prominence_check(
             ],
             "",
             "**Errors:** 0",
-            "**Warnings:** 1 — matrix/prominence alignment is verified for the current Day 4 theme layer, but this does not mean CASE_D4 is report-ready or package-ready.",
+            "**Warnings:** 1 — this file remains a Gate 5 verification record inside the finalized CASE_D4 package and should be read together with the final report and final cross-check.",
         ]
     )
 

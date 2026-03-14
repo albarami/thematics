@@ -1,8 +1,8 @@
 # CASE_D4 Candidate Themes
-
+ 
 ## Case: CASE_D4 — Day 4 (Elderly)
 ## Candidate count: 6 candidate themes tested
-## Scope status: Gate 4 theme layer only. Gate 1-3 are complete, Gate 4 is the current scope, and CASE_D4 is still not complete, not package-ready, and not yet at the Day 4 report layer.
+## Scope status: Included in the finalized CASE_D4 package as the Gate 4 candidate-theme testing record. This file documents the candidate-to-final theme decisions that fed the completed Day 4 package.
 
 ---
 

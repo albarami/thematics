@@ -1,8 +1,8 @@
 # CASE_D4 Final Themes
-
+ 
 ## Case: CASE_D4 — Day 4 (Elderly)
 ## Theme count: 4 final themes + 1 cross-cutting analytical pattern
-## Scope status: Gate 4 theme layer only. CASE_D4 is still not complete, not package-ready, and not yet at the Day 4 report layer.
+## Scope status: Included in the finalized CASE_D4 package as the locked Day 4 final-theme record. Theme names, definitions, and caveats here align with the completed report, tables, and package checks.
 
 ---
 
