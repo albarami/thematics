@@ -1,0 +1,8 @@
+question_id,participant_segments,moderator_segments,unclear_segments,unique_participant_speakers,source_files,top_codes
+Q1,83,31,67,17,5,general_response;pillar_physical;cultural_local_adaptation;pillar_social;pillar_emotional
+Q2,74,31,1,13,4,general_response;practical_recommendation;contentment_as_core;awareness_education;balance_multidimensional
+Q3,307,124,2,20,5,general_response;school_clinical_link;practical_recommendation;awareness_education;family_support_ecology
+Q4,96,14,0,12,4,general_response;healthcare_system_critique;cultural_local_adaptation;family_support_ecology;balance_multidimensional
+Q5,159,59,2,11,3,general_response;spiritual_moral_anchor;practical_recommendation;school_clinical_link;professional_identity
+Q6,65,10,2,8,4,general_response;healthcare_system_critique;family_support_ecology
+Q7,21,9,1,7,2,general_response

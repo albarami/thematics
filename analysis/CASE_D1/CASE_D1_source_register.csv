@@ -1,0 +1,18 @@
+source_id,case_id,filename,file_type,source_role,table_id,language,paired_note,format_notes
+D1_TX_HWCH0,CASE_D1,HWCH0AR.docx,transcript,primary_verbal,0,Arabic,HWCH0NT1.docx,"999 paras, 90721 chars. Speaker labels present (colon pattern). Largest D1 transcript."
+D1_TX_HWCH2,CASE_D1,HWCH2AR.docx,transcript,primary_verbal,2,Arabic,HWCH2NT1.docx,"383 paras, 53225 chars. Mostly unlabeled flowing text. Few colon-delimited labels."
+D1_TX_HWCH3,CASE_D1,HWCH3AR.docx,transcript,primary_verbal,3,Arabic,HWCH3NT2.docx,"137 paras, 33087 chars. Largely unlabeled. Moderator prompts embedded in flow."
+D1_TX_HWCH4,CASE_D1,HWCH4AR.docx,transcript,primary_verbal,4,Arabic,HWCH4NT1.docx,"140 paras, 19588 chars. Clear moderator labels. Some participant labels with role descriptors."
+D1_TX_HWCH6,CASE_D1,HWCH6AR.docx,transcript,primary_verbal,6,Arabic,HWCH6NT3.docx,"96 paras, 45376 chars. Participants labeled by professional role in parentheses. Long substantive turns."
+D1_TX_HWCH7,CASE_D1,HWCH7AR.docx,transcript,primary_verbal,7,Arabic,HWCH7NT1.docx,"131 paras, 51018 chars. Well-labeled with named participants and moderator (???? ??????)."
+D1_TX_HWCH10,CASE_D1,HWCH10AR.docx,transcript,primary_verbal,10,English,HWCH10NT1.docx,"58 paras, 8436 chars. English. Structured Q&A with named participants and Moderator 1/2 labels."
+D1_NT_HWCH0,CASE_D1,HWCH0NT1.docx,note,contextual_triangulation,0,English,,"Table-based (6 tables, 110 cells). English note for Arabic transcript. Contains participant labels (P1-P8) and Dr. Ian quote."
+D1_NT_HWCH2,CASE_D1,HWCH2NT1.docx,note,contextual_triangulation,2,Arabic,,"Table-based (1 table, 405 cells). Participant labels by role (???? ????, etc.)."
+D1_NT_HWCH3,CASE_D1,HWCH3NT2.docx,note,contextual_triangulation,3,Arabic,,"Table-based (1 table, 220 cells). Named participants (?.?????, ?.???? ???, etc.)."
+D1_NT_HWCH4,CASE_D1,HWCH4NT1.docx,note,contextual_triangulation,4,Arabic,,"Table-based (1 table, 305 cells). Role-labeled participants (????? ????, ????? ????)."
+D1_NT_HWCH5,CASE_D1,HWCH5NT1.docx,note,contextual_triangulation,5,Arabic,,"Table-based (1 table, 316 cells). No paired transcript. ?1-?6 notation. Date: 1-2-2026."
+D1_NT_HWCH6,CASE_D1,HWCH6NT3.docx,note,contextual_triangulation,6,Arabic,,"Table-based (1 table, 291 cells). ?1-?8 notation."
+D1_NT_HWCH7,CASE_D1,HWCH7NT1.docx,note,contextual_triangulation,7,Arabic,,"Table-based (1 table, 314 cells). ?1-?8 notation."
+D1_NT_HWCH10,CASE_D1,HWCH10NT1.docx,note,contextual_triangulation,10,English,,"Paragraph + table-based (8 paras, 5 tables, 126 cells). Named participants with professional roles."
+D1_TL_CH0,CASE_D1,_$CH0NT1.docx,temp_lock,excluded,0,,,Temp/lock file. Excluded from analysis.
+D1_REC,CASE_D1,Health_Workshop_Suggestions Day 1.xlsx,recommendation_workbook,auxiliary_recommendation,all,Arabic,,"40 suggestion rows. Sheet: First_Day_01_02_2026. Columns: No, User, Suggestion. Rows 40-41 are supplementary."

@@ -3,13 +3,15 @@
 ## Purpose
 This document is the master step-by-step workflow for completing one stakeholder case analysis without missing any required analytic or documentation step.
 
-It is designed to be reused for each day-based case in the project:
+It is designed to be reused for each day-based case in the project.
+
+## Current assessed scope
+The current active assessment scope covers CASE_D1 through CASE_D4 only:
 
 - `CASE_D1` - Day 1 Childhood
 - `CASE_D2` - Day 2 Youth
 - `CASE_D3` - Day 3 Adults
 - `CASE_D4` - Day 4 Elderly
-- `CASE_D5` - Day 5 Policy Makers
 
 The workflow captures the end-to-end case process established through the completed Day 1 analysis and turns it into a reusable case checklist.
 

@@ -1,0 +1,381 @@
+{
+  "HWCH0AR": {
+    "total_paragraphs": 999,
+    "total_turns": 994,
+    "speakers": {
+      "_UNLABELED_": {
+        "turns": 1,
+        "chars": 7
+      },
+      "Kulood": {
+        "turns": 191,
+        "chars": 17742
+      },
+      "Speaker 5": {
+        "turns": 156,
+        "chars": 13614
+      },
+      "Dr Ahmed Al Emadi": {
+        "turns": 189,
+        "chars": 16396
+      },
+      "Speaker 4": {
+        "turns": 325,
+        "chars": 20891
+      },
+      "Speaker 6": {
+        "turns": 59,
+        "chars": 2339
+      },
+      "Speaker 2": {
+        "turns": 23,
+        "chars": 299
+      },
+      "Speaker 7": {
+        "turns": 50,
+        "chars": 6389
+      }
+    },
+    "questions_found": [
+      "Q7",
+      "Q5",
+      "Q3",
+      "Q6"
+    ],
+    "char_count": 90721
+  },
+  "HWCH10AR": {
+    "total_paragraphs": 58,
+    "total_turns": 49,
+    "speakers": {
+      "Question 1": {
+        "turns": 1,
+        "chars": 27
+      },
+      "Muhammad Ali": {
+        "turns": 3,
+        "chars": 418
+      },
+      "Dr. Afaf Asuhou": {
+        "turns": 4,
+        "chars": 928
+      },
+      "Melissa Toon": {
+        "turns": 5,
+        "chars": 656
+      },
+      "Angela Lwage": {
+        "turns": 4,
+        "chars": 552
+      },
+      "Question 2": {
+        "turns": 1,
+        "chars": 52
+      },
+      "Moderator 2": {
+        "turns": 2,
+        "chars": 384
+      },
+      "Nawal Yosul": {
+        "turns": 1,
+        "chars": 229
+      },
+      "Moderator 1": {
+        "turns": 1,
+        "chars": 235
+      },
+      "Question 3": {
+        "turns": 1,
+        "chars": 61
+      },
+      "Nawal Yosul (Spiritual)": {
+        "turns": 1,
+        "chars": 148
+      },
+      "Dr. Afaf Asuhou (Physical)": {
+        "turns": 1,
+        "chars": 93
+      },
+      "Angela Lwage (Social)": {
+        "turns": 1,
+        "chars": 66
+      },
+      "Melissa Toon (Emotional)": {
+        "turns": 1,
+        "chars": 142
+      },
+      "Muhammad Ali (Physical)": {
+        "turns": 1,
+        "chars": 151
+      },
+      "Nawal Yosul (Physical)": {
+        "turns": 1,
+        "chars": 129
+      },
+      "Moderator 1 (Mental/Spiritual)": {
+        "turns": 1,
+        "chars": 145
+      },
+      "Melissa Toon (Integrated)": {
+        "turns": 1,
+        "chars": 242
+      },
+      "Dr. Khalid (Social/Emotional)": {
+        "turns": 1,
+        "chars": 192
+      },
+      "Nawal Yosul (Intellectual)": {
+        "turns": 1,
+        "chars": 238
+      },
+      "Question 4": {
+        "turns": 1,
+        "chars": 72
+      },
+      "Dr. Khalid": {
+        "turns": 1,
+        "chars": 162
+      },
+      "Question 5": {
+        "turns": 1,
+        "chars": 42
+      },
+      "Melissa Toon (Challenge)": {
+        "turns": 1,
+        "chars": 189
+      },
+      "Dr. Khalid (Challenge)": {
+        "turns": 1,
+        "chars": 168
+      },
+      "Muhammad Ali (Challenge)": {
+        "turns": 1,
+        "chars": 148
+      },
+      "Angela Lwage (Challenge)": {
+        "turns": 2,
+        "chars": 257
+      },
+      "Dr. Khalid (Suggestion)": {
+        "turns": 2,
+        "chars": 278
+      },
+      "Melissa Toon (Opportunity)": {
+        "turns": 1,
+        "chars": 139
+      },
+      "Nawal Yosul (Challenge)": {
+        "turns": 1,
+        "chars": 191
+      },
+      "Dr. Khalid (Rebuttal)": {
+        "turns": 1,
+        "chars": 149
+      },
+      "Muhammad Ali (Suggestion)": {
+        "turns": 1,
+        "chars": 94
+      },
+      "Nawal Yosul (Suggestion)": {
+        "turns": 1,
+        "chars": 125
+      },
+      "Angela Lwage (Suggestion)": {
+        "turns": 1,
+        "chars": 306
+      }
+    },
+    "questions_found": [
+      "Q5",
+      "Question 4",
+      "Q7",
+      "Q3",
+      "Question 1",
+      "Q6",
+      "Question 2",
+      "Question 3",
+      "Question 5"
+    ],
+    "char_count": 8436
+  },
+  "HWCH2AR": {
+    "total_paragraphs": 383,
+    "total_turns": 6,
+    "speakers": {
+      "_UNLABELED_": {
+        "turns": 1,
+        "chars": 21098
+      },
+      "مداخلة": {
+        "turns": 3,
+        "chars": 21055
+      },
+      "أمداخلة": {
+        "turns": 1,
+        "chars": 134
+      },
+      "د. حصة": {
+        "turns": 1,
+        "chars": 10891
+      }
+    },
+    "questions_found": [],
+    "char_count": 53225
+  },
+  "HWCH3AR": {
+    "total_paragraphs": 137,
+    "total_turns": 2,
+    "speakers": {
+      "_UNLABELED_": {
+        "turns": 1,
+        "chars": 11851
+      },
+      "طيب، دعنا ننتقل للسؤال اللي بعده، السؤال الرابع": {
+        "turns": 1,
+        "chars": 21104
+      }
+    },
+    "questions_found": [],
+    "char_count": 33087
+  },
+  "HWCH4AR": {
+    "total_paragraphs": 140,
+    "total_turns": 27,
+    "speakers": {
+      "_UNLABELED_": {
+        "turns": 1,
+        "chars": 8
+      },
+      "د.ياسين": {
+        "turns": 2,
+        "chars": 1350
+      },
+      "مدير الجلسة": {
+        "turns": 19,
+        "chars": 15774
+      },
+      "أنا  مرّ علي موضوعين صراحة. الوعي": {
+        "turns": 1,
+        "chars": 790
+      },
+      "علي(متلقي خدمة)": {
+        "turns": 1,
+        "chars": 30
+      },
+      "علي (متلقي خدمة)": {
+        "turns": 1,
+        "chars": 35
+      },
+      "الشخص يكون عارف إذا مثلا اجتهد و قام بشيء معين": {
+        "turns": 1,
+        "chars": 310
+      },
+      "أ.علي (متلقي خدمة)": {
+        "turns": 1,
+        "chars": 865
+      }
+    },
+    "questions_found": [],
+    "char_count": 19588
+  },
+  "HWCH6AR": {
+    "total_paragraphs": 96,
+    "total_turns": 23,
+    "speakers": {
+      "_UNLABELED_": {
+        "turns": 1,
+        "chars": 33
+      },
+      "نور الوتاري": {
+        "turns": 4,
+        "chars": 960
+      },
+      ". (دكتورة امل طبيبة أطفال)": {
+        "turns": 1,
+        "chars": 240
+      },
+      "(د امنة طبيبة أطفال)": {
+        "turns": 2,
+        "chars": 265
+      },
+      "(اخصائية نفسية مستشفى السدرة)": {
+        "turns": 2,
+        "chars": 1882
+      },
+      ". ( منال اخصائية نفسية مستشفى السدرة)": {
+        "turns": 1,
+        "chars": 1282
+      },
+      "( منال اخصائية نفسية مستشفى السدرة)": {
+        "turns": 6,
+        "chars": 24060
+      },
+      "(مديرة علاقات مستشفى حمد)": {
+        "turns": 1,
+        "chars": 2723
+      },
+      "متطوعة حفصة عبدالله": {
+        "turns": 1,
+        "chars": 2909
+      },
+      "(متطوعة حفصة عبدالله)": {
+        "turns": 2,
+        "chars": 7709
+      },
+      "جمانة": {
+        "turns": 1,
+        "chars": 1081
+      },
+      ".( منال اخصائية نفسية مستشفى السدرة)": {
+        "turns": 1,
+        "chars": 1613
+      }
+    },
+    "questions_found": [],
+    "char_count": 45376
+  },
+  "HWCH7AR": {
+    "total_paragraphs": 131,
+    "total_turns": 126,
+    "speakers": {
+      "_UNLABELED_": {
+        "turns": 1,
+        "chars": 7
+      },
+      "مدير الجلسه": {
+        "turns": 45,
+        "chars": 6199
+      },
+      "الاء كرماله": {
+        "turns": 17,
+        "chars": 13280
+      },
+      "د/وائل محمود": {
+        "turns": 23,
+        "chars": 10212
+      },
+      "فاطمه العبيدان": {
+        "turns": 10,
+        "chars": 6617
+      },
+      "اماني اليافعى": {
+        "turns": 4,
+        "chars": 3274
+      },
+      "شفق الخالدى": {
+        "turns": 15,
+        "chars": 4040
+      },
+      "لطيفه السليطى": {
+        "turns": 6,
+        "chars": 2732
+      },
+      "نورا": {
+        "turns": 5,
+        "chars": 2838
+      }
+    },
+    "questions_found": [],
+    "char_count": 51018
+  }
+}

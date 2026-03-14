@@ -1,0 +1,5 @@
+theme,participant_segments,unique_speakers,unique_tables,total_chars,questions_present,composite_score,salience,salience_explanation
+Theme_2_Care_Ecology,109,11,4,23208,Q1;Q2;Q3;Q4;Q5;Q6,174,most_prominent,109 participant-coded segments from 11 speakers across 4 tables covering 6 questions.
+Theme_4_Culturally_Grounded_Solutions,98,13,3,18966,Q1;Q2;Q3;Q4;Q5,162,highly_prominent,98 participant-coded segments from 13 speakers across 3 tables covering 5 questions.
+Theme_1_Balanced_Contentment,75,13,3,14247,Q1;Q2;Q3;Q4;Q5,139,moderately_prominent,75 participant-coded segments from 13 speakers across 3 tables covering 5 questions.
+Theme_3_Service_Fragmentation,63,13,4,16174,Q1;Q2;Q3;Q4;Q5;Q6,134,present_but_less_prominent,63 participant-coded segments from 13 speakers across 4 tables covering 6 questions.

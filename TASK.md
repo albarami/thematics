@@ -34,14 +34,18 @@
   - [x] Revise the full-project methodology and QA workflow for corpus amendment handling and structured recommendation sheets
   - [x] Inspect `Health_Workshop_Suggestions Day 1.xlsx` and create a formal treatment decision note
   - [x] Build the refreshed corpus foundation package under `analysis/corpus_refresh/` (inventory, case register, source map, moderator register, participant/source-role logic, recommendation assessment, and refresh report)
-  - [ ] Rerun `CASE_D1` from scratch using the refreshed Day 1 source base and rebuild all Day 1 artifacts
-  - [ ] Create the refreshed `CASE_D1` cross-check report, refresh version note, and superseding submission package
+  - [x] Correct the corpus refresh foundation to D1-D4 only scope, exclude Day 5 entirely, add evidence-based moderator confidence levels, verify all 4 recommendation workbooks, and produce `Foundation_Verification_Report.md`
+  - [x] Machine-checked foundation verification pass: cross-check all CSVs against filesystem/narrative, fix 8 narrative mismatches, produce `Foundation_Verification_Appendix.md` and `Foundation_Check_Script.md`, confirm zero errors
+  - [x] Strict correction pass: hard Day 5 text removal from all foundation and methodology files, fix false Moderators.xlsx claim, fix none-row composition, rewrite check script as true record, add current-scope notes to methodology/workflow/QA files
+  - [x] Rerun `CASE_D1` from scratch using the refreshed Day 1 source base and rebuild all Day 1 artifacts
+  - [x] Create the refreshed `CASE_D1` cross-check report, refresh version note, and superseding submission package
 
 ## Discovered During Work
 - [x] Reconcile duplicate Phase 1 processing-log and audit-trail identifiers created by the initial script counter values
 - [x] Replace the weak Day 5 non-Latin derived filename slug with a deterministic fallback slug and update linked provenance records
 - [x] Document file-level provenance completeness and explicit translation-handling decisions before Phase 1 approval
 - [x] Document that the initial CASE_D1 question mapping was created before a separate guide file was available in the workspace and later reconciled against the reviewed uploaded guide during the correction pass
-- [ ] Treat the expanded day-folder corpus as a formal corpus-amendment event, refresh inventory/method rules, and supersede the old `CASE_D1` outputs after rerun
-- [x] Build refreshed `CASE_D1` Gate 1 rerun controls: source register, participant register, preparation checklist, and schema-lock note with explicit `speaker_type` handling
-- [x] Reconcile the refreshed `CASE_D1` participant register to substantive participant evidence only by removing duplicate honorific references and downgrading non-substantive attendee labels
+  - [ ] Treat the expanded day-folder corpus as a formal corpus-amendment event, refresh inventory/method rules, and supersede the old `CASE_D1` outputs after rerun
+  - [x] Build refreshed `CASE_D1` Gate 1 rerun controls: source register, participant register, preparation checklist, and schema-lock note with explicit `speaker_type` handling
+  - [x] Reconcile the refreshed `CASE_D1` participant register to substantive participant evidence only by removing duplicate honorific references and downgrading non-substantive attendee labels
+- [x] Complete the strict `CASE_D1` academic reconciliation pass by separating outward-facing vs internal files, removing residual anonymization leakage, correcting cross-check/package claims, and running final outward-facing verification

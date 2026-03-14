@@ -3,23 +3,25 @@
 ## Purpose
 This document sets out the methodology for the full thematic analysis project.
 
-The methodology covers the full analytic design across all five stakeholder cases and explains how the corpus was defined, how sources were treated, how the analysis was conducted within and across cases, and how transparency and methodological consistency were maintained throughout the project.
+The methodology covers the full analytic design and explains how the corpus was defined, how sources were treated, how the analysis was conducted within and across cases, and how transparency and methodological consistency were maintained throughout the project.
+
+## Current assessed scope
+The current active assessment scope covers CASE_D1 through CASE_D4 only. All foundation outputs, inventories, registers, and case-level analysis work are bounded to D1-D4. The master design below describes the broader project framework; any references to cases beyond D1-D4 apply only if and when the scope is formally expanded.
 
 ## Study design
 The project uses a reflexive thematic analysis design applied to a multi-case qualitative dataset.
 
-The dataset is organised into five day-based stakeholder cases:
+The dataset is organised into day-based stakeholder cases. The current assessed scope includes:
 
 - `CASE_D1` - Day 1 Childhood
 - `CASE_D2` - Day 2 Youth
 - `CASE_D3` - Day 3 Adults
 - `CASE_D4` - Day 4 Elderly
-- `CASE_D5` - Day 5 Policy Makers
 
 Each day is treated as a distinct stakeholder case. The methodology therefore combines two linked levels of analysis:
 
 1. a within-case analysis for each day
-2. a later cross-case comparative analysis across the five cases
+2. a later cross-case comparative analysis across the assessed cases
 
 This design preserves the integrity of each stakeholder discussion before any broader comparison is attempted.
 
@@ -31,17 +33,16 @@ This means the analysis focuses on patterned meaning rather than on mechanical c
 The approach is case-sensitive. It treats stakeholder discussions as contextually situated accounts and aims to understand how wellbeing, support, services, barriers, and opportunities are constructed within each case before examining similarities and differences across cases.
 
 ## Corpus and case structure
-The corpus consists of materials located under the five day folders in the parent workspace:
+The corpus consists of materials located under the day folders in the parent workspace. The current assessed scope covers:
 
 - `Day1_Childhood`
 - `Day2_Youth`
 - `Day3_Adults`
 - `Day4_Elderly`
-- `Day5_PolicyMakers`
 
 Within the methodology, each day folder functions as one case. Within each case, each document is treated as a distinct source item with its own provenance.
 
-Following the corpus refresh, the current corpus version includes transcript files, note-taker files, and structured recommendation workbooks for Days 1-4, plus Day 5 notes and an auxiliary presentation artifact. All inventoried files are retained in the documentation layer, but they do not all carry the same analytic weight.
+Following the corpus refresh, the current corpus version includes transcript files, note-taker files, and structured recommendation workbooks for Days 1-4. All inventoried files are retained in the documentation layer, but they do not all carry the same analytic weight.
 
 ### Primary analytic unit
 The primary analytic unit is the case.
@@ -144,7 +145,7 @@ This stage focuses on whether multiple coded segments express a broader shared m
 Candidate themes are refined into final case-level themes through iterative review of coded segments, excerpt banks, memos, contextual notes, and theme-development records. Boundaries between themes are tested carefully so that each final theme captures a distinct patterned meaning.
 
 ### 9. Conduct cross-case comparison
-After within-case themes have been established, a cross-case comparative stage examines convergence, divergence, overlap, contrast, and stakeholder-specific emphasis across the five cases.
+After within-case themes have been established, a cross-case comparative stage examines convergence, divergence, overlap, contrast, and stakeholder-specific emphasis across the assessed cases.
 
 Cross-case comparison does not erase case differences. Its purpose is to compare how patterned meanings travel, change, intensify, or narrow across stakeholder groups while retaining sensitivity to the context in which each case was produced.
 
@@ -245,7 +246,6 @@ Required sheets:
 - `CASE_D2_Participants`
 - `CASE_D3_Participants`
 - `CASE_D4_Participants`
-- `CASE_D5_Participants`
 
 Required columns:
 

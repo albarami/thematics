@@ -1,68 +1,66 @@
-﻿case_id,day_label,group_label,source_folder,subfolder,filename,relative_path,extension,file_type,is_temp_lock,pairing_key,source_role_classification,include_in_analysis,notes
-CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH0AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH0AR.docx,.docx,transcript,false,HWCH0,primary_verbal_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH10AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH10AR.docx,.docx,transcript,false,HWCH10,primary_verbal_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH2AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH2AR.docx,.docx,transcript,false,HWCH2,primary_verbal_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH3AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH3AR.docx,.docx,transcript,false,HWCH3,primary_verbal_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH4AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH4AR.docx,.docx,transcript,false,HWCH4,primary_verbal_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH6AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH6AR.docx,.docx,transcript,false,HWCH6,primary_verbal_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH7AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH7AR.docx,.docx,transcript,false,HWCH7,primary_verbal_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,_$CH0NT1.docx,Day1_Childhood/NoteTakers_Notes/_$CH0NT1.docx,.docx,temp_lock,true,,excluded_temp_lock,no,System-generated lock file; exclude from analysis.
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH0NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH0NT1.docx,.docx,note_taker_notes,false,HWCH0,contextual_triangulation_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH10NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH10NT1.docx,.docx,note_taker_notes,false,HWCH10,contextual_triangulation_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH2NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH2NT1.docx,.docx,note_taker_notes,false,HWCH2,contextual_triangulation_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH3NT2.docx,Day1_Childhood/NoteTakers_Notes/HWCH3NT2.docx,.docx,note_taker_notes,false,HWCH3,contextual_triangulation_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH4NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH4NT1.docx,.docx,note_taker_notes,false,HWCH4,contextual_triangulation_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH5NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH5NT1.docx,.docx,note_taker_notes,false,HWCH5,contextual_triangulation_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH6NT3.docx,Day1_Childhood/NoteTakers_Notes/HWCH6NT3.docx,.docx,note_taker_notes,false,HWCH6,contextual_triangulation_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH7NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH7NT1.docx,.docx,note_taker_notes,false,HWCH7,contextual_triangulation_data,yes,
-CASE_D1,Day 1,Childhood,Day1_Childhood,Recommendations_Data,Health_Workshop_Suggestions Day 1.xlsx,Day1_Childhood/Recommendations_Data/Health_Workshop_Suggestions Day 1.xlsx,.xlsx,auxiliary_recommendation_workbook,false,,auxiliary_structured_recommendation_data,yes,Auxiliary structured recommendation workbook; not transcript-equivalent evidence.
-CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO0AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO0AR.docx,.docx,transcript,false,HWYO0,primary_verbal_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO10AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO10AR.docx,.docx,transcript,false,HWYO10,primary_verbal_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO11AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO11AR.docx,.docx,transcript,false,HWYO11,primary_verbal_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO3AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO3AR.docx,.docx,transcript,false,HWYO3,primary_verbal_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO4AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO4AR.docx,.docx,transcript,false,HWYO4,primary_verbal_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO7AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO7AR.docx,.docx,transcript,false,HWYO7,primary_verbal_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO9AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO9AR.docx,.docx,transcript,false,HWYO9,primary_verbal_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO0NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO0NT1.docx,.docx,note_taker_notes,false,HWYO0,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO10NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO10NT1.docx,.docx,note_taker_notes,false,HWYO10,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO11NT2.docx,Day2_Youth/NoteTakers_Notes/HWYO11NT2.docx,.docx,note_taker_notes,false,HWYO11,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO1NT.docx,Day2_Youth/NoteTakers_Notes/HWYO1NT.docx,.docx,note_taker_notes,false,HWYO1,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO3NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO3NT1.docx,.docx,note_taker_notes,false,HWYO3,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO4NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO4NT1.docx,.docx,note_taker_notes,false,HWYO4,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO5NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO5NT1.docx,.docx,note_taker_notes,false,HWYO5,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO6NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO6NT1.docx,.docx,note_taker_notes,false,HWYO6,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO9NT1[7].docx,Day2_Youth/NoteTakers_Notes/HWYO9NT1[7].docx,.docx,note_taker_notes,false,HWYO9,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO9NT2.docx,Day2_Youth/NoteTakers_Notes/HWYO9NT2.docx,.docx,note_taker_notes,false,HWYO9,contextual_triangulation_data,yes,
-CASE_D2,Day 2,Youth,Day2_Youth,Recommendations_Data,Health_Workshop_Suggestions Day 2.xlsx,Day2_Youth/Recommendations_Data/Health_Workshop_Suggestions Day 2.xlsx,.xlsx,auxiliary_recommendation_workbook,false,,auxiliary_structured_recommendation_data,yes,Auxiliary structured recommendation workbook; not transcript-equivalent evidence.
-CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD10AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD10AR.docx,.docx,transcript,false,HWAD10,primary_verbal_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD1AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD1AR.docx,.docx,transcript,false,HWAD1,primary_verbal_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD3AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD3AR.docx,.docx,transcript,false,HWAD3,primary_verbal_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD4AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD4AR.docx,.docx,transcript,false,HWAD4,primary_verbal_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD6AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD6AR.docx,.docx,transcript,false,HWAD6,primary_verbal_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD0NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD0NT1.docx,.docx,note_taker_notes,false,HWAD0,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD10NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD10NT1.docx,.docx,note_taker_notes,false,HWAD10,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD10NTI.docx,Day3_Adults/NoteTakers_Notes/HWAD10NTI.docx,.docx,note_taker_notes,false,HWAD10,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD11NT2.docx,Day3_Adults/NoteTakers_Notes/HWAD11NT2.docx,.docx,note_taker_notes,false,HWAD11,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD11NT3.docx,Day3_Adults/NoteTakers_Notes/HWAD11NT3.docx,.docx,note_taker_notes,false,HWAD11,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD1NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD1NT1.docx,.docx,note_taker_notes,false,HWAD1,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD1NT2.docx,Day3_Adults/NoteTakers_Notes/HWAD1NT2.docx,.docx,note_taker_notes,false,HWAD1,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD3NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD3NT1.docx,.docx,note_taker_notes,false,HWAD3,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD5NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD5NT1.docx,.docx,note_taker_notes,false,HWAD5,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD7NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD7NT1.docx,.docx,note_taker_notes,false,HWAD7,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD9NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD9NT1.docx,.docx,note_taker_notes,false,HWAD9,contextual_triangulation_data,yes,
-CASE_D3,Day 3,Adults,Day3_Adults,Recommendations_Data,Health_Workshop_Suggestions Day 3.xlsx,Day3_Adults/Recommendations_Data/Health_Workshop_Suggestions Day 3.xlsx,.xlsx,auxiliary_recommendation_workbook,false,,auxiliary_structured_recommendation_data,yes,Auxiliary structured recommendation workbook; not transcript-equivalent evidence.
-CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL10AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL10AR.docx,.docx,transcript,false,HWEL10,primary_verbal_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL1AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL1AR.docx,.docx,transcript,false,HWEL1,primary_verbal_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL3AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL3AR.docx,.docx,transcript,false,HWEL3,primary_verbal_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL7AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL7AR.docx,.docx,transcript,false,HWEL7,primary_verbal_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL9AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL9AR.docx,.docx,transcript,false,HWEL9,primary_verbal_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL10NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL10NT1.docx,.docx,note_taker_notes,false,HWEL10,contextual_triangulation_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL10NT2.docx,Day4_Elderly/NoteTakers_Notes/HWEL10NT2.docx,.docx,note_taker_notes,false,HWEL10,contextual_triangulation_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL1NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL1NT1.docx,.docx,note_taker_notes,false,HWEL1,contextual_triangulation_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL3NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL3NT1.docx,.docx,note_taker_notes,false,HWEL3,contextual_triangulation_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL4NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL4NT1.docx,.docx,note_taker_notes,false,HWEL4,contextual_triangulation_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL6NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL6NT1.docx,.docx,note_taker_notes,false,HWEL6,contextual_triangulation_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL7NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL7NT1.docx,.docx,note_taker_notes,false,HWEL7,contextual_triangulation_data,yes,
-CASE_D4,Day 4,Elderly,Day4_Elderly,Recommendations_Data,Health_Workshop_Suggestions Day 4.xlsx,Day4_Elderly/Recommendations_Data/Health_Workshop_Suggestions Day 4.xlsx,.xlsx,auxiliary_recommendation_workbook,false,,auxiliary_structured_recommendation_data,yes,Auxiliary structured recommendation workbook; not transcript-equivalent evidence.
-CASE_D5,Day 5,Policy Makers,Day5_PolicyMakers,NoteTakers_Notes,اليوم الخامس - صناع القرار.docx,Day5_PolicyMakers/NoteTakers_Notes/اليوم الخامس - صناع القرار.docx,.docx,note_taker_notes,false,,contextual_triangulation_data,yes,
-CASE_D5,Day 5,Policy Makers,Day5_PolicyMakers,Presentation given,العافية والحياة الطيبة - الجلسة الختامية  02.05.26 7AM (1).pptx,Day5_PolicyMakers/Presentation given/العافية والحياة الطيبة - الجلسة الختامية  02.05.26 7AM (1).pptx,.pptx,auxiliary_presentation,false,,auxiliary_presentation_data,yes,Auxiliary presentation artifact; not participant speech.
+﻿case_id,day_label,group_label,source_folder,subfolder,filename,relative_path,extension,file_type,is_temp_lock,pairing_key,source_role,include_in_analysis
+CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH0AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH0AR.docx,.docx,transcript,false,HWCH0,primary_verbal_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH10AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH10AR.docx,.docx,transcript,false,HWCH10,primary_verbal_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH2AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH2AR.docx,.docx,transcript,false,HWCH2,primary_verbal_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH3AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH3AR.docx,.docx,transcript,false,HWCH3,primary_verbal_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH4AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH4AR.docx,.docx,transcript,false,HWCH4,primary_verbal_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH6AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH6AR.docx,.docx,transcript,false,HWCH6,primary_verbal_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,Audio Recordings _Transcripts,HWCH7AR.docx,Day1_Childhood/Audio Recordings _Transcripts/HWCH7AR.docx,.docx,transcript,false,HWCH7,primary_verbal_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,_$CH0NT1.docx,Day1_Childhood/NoteTakers_Notes/_$CH0NT1.docx,.docx,temp_lock,true,,excluded_temp_lock,no
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH0NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH0NT1.docx,.docx,note,false,HWCH0,contextual_triangulation_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH10NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH10NT1.docx,.docx,note,false,HWCH10,contextual_triangulation_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH2NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH2NT1.docx,.docx,note,false,HWCH2,contextual_triangulation_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH3NT2.docx,Day1_Childhood/NoteTakers_Notes/HWCH3NT2.docx,.docx,note,false,HWCH3,contextual_triangulation_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH4NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH4NT1.docx,.docx,note,false,HWCH4,contextual_triangulation_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH5NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH5NT1.docx,.docx,note,false,HWCH5,contextual_triangulation_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH6NT3.docx,Day1_Childhood/NoteTakers_Notes/HWCH6NT3.docx,.docx,note,false,HWCH6,contextual_triangulation_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,NoteTakers_Notes,HWCH7NT1.docx,Day1_Childhood/NoteTakers_Notes/HWCH7NT1.docx,.docx,note,false,HWCH7,contextual_triangulation_data,yes
+CASE_D1,Day 1,Childhood,Day1_Childhood,Recommendations_Data,Health_Workshop_Suggestions Day 1.xlsx,Day1_Childhood/Recommendations_Data/Health_Workshop_Suggestions Day 1.xlsx,.xlsx,recommendation_workbook,false,,auxiliary_structured_recommendation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO0AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO0AR.docx,.docx,transcript,false,HWYO0,primary_verbal_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO10AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO10AR.docx,.docx,transcript,false,HWYO10,primary_verbal_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO11AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO11AR.docx,.docx,transcript,false,HWYO11,primary_verbal_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO3AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO3AR.docx,.docx,transcript,false,HWYO3,primary_verbal_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO4AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO4AR.docx,.docx,transcript,false,HWYO4,primary_verbal_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO7AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO7AR.docx,.docx,transcript,false,HWYO7,primary_verbal_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,Audio Recordings _Transcripts,HWYO9AR.docx,Day2_Youth/Audio Recordings _Transcripts/HWYO9AR.docx,.docx,transcript,false,HWYO9,primary_verbal_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO0NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO0NT1.docx,.docx,note,false,HWYO0,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO10NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO10NT1.docx,.docx,note,false,HWYO10,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO11NT2.docx,Day2_Youth/NoteTakers_Notes/HWYO11NT2.docx,.docx,note,false,HWYO11,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO1NT.docx,Day2_Youth/NoteTakers_Notes/HWYO1NT.docx,.docx,note,false,HWYO1,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO3NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO3NT1.docx,.docx,note,false,HWYO3,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO4NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO4NT1.docx,.docx,note,false,HWYO4,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO5NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO5NT1.docx,.docx,note,false,HWYO5,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO6NT1.docx,Day2_Youth/NoteTakers_Notes/HWYO6NT1.docx,.docx,note,false,HWYO6,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO9NT1[7].docx,Day2_Youth/NoteTakers_Notes/HWYO9NT1[7].docx,.docx,note,false,HWYO9,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,NoteTakers_Notes,HWYO9NT2.docx,Day2_Youth/NoteTakers_Notes/HWYO9NT2.docx,.docx,note,false,HWYO9,contextual_triangulation_data,yes
+CASE_D2,Day 2,Youth,Day2_Youth,Recommendations_Data,Health_Workshop_Suggestions Day 2.xlsx,Day2_Youth/Recommendations_Data/Health_Workshop_Suggestions Day 2.xlsx,.xlsx,recommendation_workbook,false,,auxiliary_structured_recommendation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD10AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD10AR.docx,.docx,transcript,false,HWAD10,primary_verbal_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD1AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD1AR.docx,.docx,transcript,false,HWAD1,primary_verbal_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD3AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD3AR.docx,.docx,transcript,false,HWAD3,primary_verbal_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD4AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD4AR.docx,.docx,transcript,false,HWAD4,primary_verbal_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,Audio Recordings _Transcripts,HWAD6AR.docx,Day3_Adults/Audio Recordings _Transcripts/HWAD6AR.docx,.docx,transcript,false,HWAD6,primary_verbal_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD0NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD0NT1.docx,.docx,note,false,HWAD0,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD10NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD10NT1.docx,.docx,note,false,HWAD10,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD10NTI.docx,Day3_Adults/NoteTakers_Notes/HWAD10NTI.docx,.docx,note,false,HWAD10,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD11NT2.docx,Day3_Adults/NoteTakers_Notes/HWAD11NT2.docx,.docx,note,false,HWAD11,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD11NT3.docx,Day3_Adults/NoteTakers_Notes/HWAD11NT3.docx,.docx,note,false,HWAD11,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD1NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD1NT1.docx,.docx,note,false,HWAD1,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD1NT2.docx,Day3_Adults/NoteTakers_Notes/HWAD1NT2.docx,.docx,note,false,HWAD1,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD3NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD3NT1.docx,.docx,note,false,HWAD3,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD5NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD5NT1.docx,.docx,note,false,HWAD5,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD7NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD7NT1.docx,.docx,note,false,HWAD7,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,NoteTakers_Notes,HWAD9NT1.docx,Day3_Adults/NoteTakers_Notes/HWAD9NT1.docx,.docx,note,false,HWAD9,contextual_triangulation_data,yes
+CASE_D3,Day 3,Adults,Day3_Adults,Recommendations_Data,Health_Workshop_Suggestions Day 3.xlsx,Day3_Adults/Recommendations_Data/Health_Workshop_Suggestions Day 3.xlsx,.xlsx,recommendation_workbook,false,,auxiliary_structured_recommendation_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL10AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL10AR.docx,.docx,transcript,false,HWEL10,primary_verbal_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL1AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL1AR.docx,.docx,transcript,false,HWEL1,primary_verbal_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL3AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL3AR.docx,.docx,transcript,false,HWEL3,primary_verbal_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL7AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL7AR.docx,.docx,transcript,false,HWEL7,primary_verbal_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,Audio Recordings _Transcripts,HWEL9AR.docx,Day4_Elderly/Audio Recordings _Transcripts/HWEL9AR.docx,.docx,transcript,false,HWEL9,primary_verbal_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL10NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL10NT1.docx,.docx,note,false,HWEL10,contextual_triangulation_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL10NT2.docx,Day4_Elderly/NoteTakers_Notes/HWEL10NT2.docx,.docx,note,false,HWEL10,contextual_triangulation_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL1NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL1NT1.docx,.docx,note,false,HWEL1,contextual_triangulation_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL3NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL3NT1.docx,.docx,note,false,HWEL3,contextual_triangulation_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL4NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL4NT1.docx,.docx,note,false,HWEL4,contextual_triangulation_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL6NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL6NT1.docx,.docx,note,false,HWEL6,contextual_triangulation_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,NoteTakers_Notes,HWEL7NT1.docx,Day4_Elderly/NoteTakers_Notes/HWEL7NT1.docx,.docx,note,false,HWEL7,contextual_triangulation_data,yes
+CASE_D4,Day 4,Elderly,Day4_Elderly,Recommendations_Data,Health_Workshop_Suggestions Day 4.xlsx,Day4_Elderly/Recommendations_Data/Health_Workshop_Suggestions Day 4.xlsx,.xlsx,recommendation_workbook,false,,auxiliary_structured_recommendation_data,yes

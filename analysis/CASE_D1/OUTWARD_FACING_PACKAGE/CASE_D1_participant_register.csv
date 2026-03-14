@@ -1,0 +1,38 @@
+anonymized_code,source_file,table_id,speaker_type,role_label,turns,chars,classification_basis
+D1_M01,HWCH0AR.docx,0,moderator,"Moderator, Table 0",191,17742,Classified as moderator from facilitation pattern and moderator-assignment review.
+D1_P01,HWCH0AR.docx,0,participant,"Psychiatrist, Table 0",189,16396,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P02,HWCH0AR.docx,0,participant,"Healthcare professional, Table 0",325,20891,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P03,HWCH0AR.docx,0,participant,"Mental health professional, Table 0",156,13614,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P04,HWCH0AR.docx,0,participant,"Wellbeing researcher, Table 0",50,6389,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P05,HWCH0AR.docx,0,participant,"Healthcare professional, Table 0",59,2339,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_U01,HWCH0AR.docx,0,unclear,"Unclear speaker identity, Table 0",23,299,Attribution remained indeterminate after review; retained as unclear because role could not be confirmed from available labels.
+D1_P06,HWCH2AR.docx,2,participant,"Healthcare professional, Table 2",1,10891,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P07,HWCH2AR.docx,2,participant,"Healthcare professional, Table 2",3,21055,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_M02,HWCH2AR.docx,2,moderator,"Moderator, Table 2",0,0,Classified as moderator from facilitation pattern and moderator-assignment review.
+D1_M03,HWCH3AR.docx,3,moderator,"Moderator, Table 3",1,21104,Classified as moderator from facilitation pattern and moderator-assignment review.
+D1_M04,HWCH4AR.docx,4,moderator,"Moderator, Table 4",19,15774,Classified as moderator from facilitation pattern and moderator-assignment review.
+D1_P08,HWCH4AR.docx,4,participant,"Healthcare professional, Table 4",2,1350,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P09,HWCH4AR.docx,4,participant,"Service recipient, Table 4",3,930,Classified as participant because the source explicitly indicates a service-recipient role and the contribution is substantive.
+D1_M05,HWCH6AR.docx,6,moderator,"Moderator, Table 6",4,960,Classified as moderator from facilitation pattern and moderator-assignment review.
+D1_P10,HWCH6AR.docx,6,participant,"Psychologist, Table 6",10,26855,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P11,HWCH6AR.docx,6,participant,"Community volunteer, Table 6",3,10618,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P12,HWCH6AR.docx,6,participant,"Hospital public-relations manager, Table 6",1,2723,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P13,HWCH6AR.docx,6,participant,"Paediatrician, Table 6",2,265,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P14,HWCH6AR.docx,6,participant,"Paediatrician, Table 6",1,240,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_U02,HWCH6AR.docx,6,unclear,"Unclear speaker identity, Table 6",1,1081,Attribution remained indeterminate after review; retained as unclear because role could not be confirmed from available labels.
+D1_M06,HWCH7AR.docx,7,moderator,"Moderator, Table 7",45,6199,Classified as moderator from facilitation pattern and moderator-assignment review.
+D1_P15,HWCH7AR.docx,7,participant,"Healthcare professional, Table 7",17,13280,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P16,HWCH7AR.docx,7,participant,"Healthcare professional, Table 7",23,10212,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P17,HWCH7AR.docx,7,participant,"Healthcare professional, Table 7",10,6617,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P18,HWCH7AR.docx,7,participant,"Healthcare professional, Table 7",15,4040,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P19,HWCH7AR.docx,7,participant,"Healthcare professional, Table 7",4,3274,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P20,HWCH7AR.docx,7,participant,"Healthcare professional, Table 7",5,2838,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P21,HWCH7AR.docx,7,participant,"Healthcare professional, Table 7",6,2732,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_M07,HWCH10AR.docx,10,moderator,"Moderator, Table 10",2,380,Classified as moderator from facilitation pattern and moderator-assignment review.
+D1_M08,HWCH10AR.docx,10,moderator,"Moderator, Table 10",2,384,Classified as moderator from facilitation pattern and moderator-assignment review.
+D1_P22,HWCH10AR.docx,10,participant,"Family consultant, Table 10",6,811,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P23,HWCH10AR.docx,10,participant,"Occupational therapist, Table 10",9,1326,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P24,HWCH10AR.docx,10,participant,"Resident doctor, Table 10",7,1060,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P25,HWCH10AR.docx,10,participant,"Psychologist, Table 10",5,1021,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P26,HWCH10AR.docx,10,participant,"Social worker, Table 10",7,1181,Classified as participant after review of substantive contribution pattern and source-role context.
+D1_P27,HWCH10AR.docx,10,participant,"Child psychiatrist, Table 10",6,949,Classified as participant after review of substantive contribution pattern and source-role context.

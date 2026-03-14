@@ -5,8 +5,11 @@ This document defines the mandatory quality-assurance gates that must pass befor
 
 ## Applicability
 - CASE_D1 refresh reruns after material corpus amendment
-- CASE_D2, CASE_D3, CASE_D4, CASE_D5
+- CASE_D2, CASE_D3, CASE_D4
 - If a previously completed case receives materially expanded core data, this specification applies to the rerun and superseding version of that case
+
+## Current assessed scope
+The current active assessment scope covers CASE_D1 through CASE_D4 only. All gate checks, registers, and deliverables are bounded to D1-D4.
 
 ## Pre-Check — Corpus Amendment Trigger
 
