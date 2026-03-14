@@ -1,0 +1,37 @@
+anonymized_code,source_file,table_id,speaker_type,role_label,turns,chars,classification_basis
+D4_M01,HWEL1AR.docx,1,moderator,"Moderator, Table 1",5,2128,Explicit `Diana (moderator)` labels and moderator_register_refresh.csv.
+D4_M02,HWEL3AR.docx,3,moderator,"Moderator, Table 3",6,308,Facilitation turns and moderator-register review; probable not fully confirmed.
+D4_M03,HWEL4NT1.docx,4,moderator,"Moderator, Table 4",0,0,Moderators.xlsx only; table 4 is note-only.
+D4_M04,HWEL6NT1.docx,6,moderator,"Moderator, Table 6",0,0,Moderators.xlsx only; table 6 is note-only.
+D4_M05,HWEL7AR.docx,7,moderator,"Moderator, Table 7",44,4995,Repeated facilitation turns and moderator-register review; probable.
+D4_M06,HWEL9AR.docx,9,moderator,"Moderator, Table 9",31,2031,Explicit `Dr Abdellatif Moderator` labeling and moderator-register review.
+D4_M07,HWEL10AR.docx,10,moderator,"Moderator, Table 10",2,425,Explicit `Moderator` labels in English transcript and moderator-register review.
+D4_P01,HWEL1AR.docx,1,participant,"Participant, role not stated, Table 1",3,4260,Repeated named substantive turns in HWEL1AR.
+D4_P02,HWEL1AR.docx,1,participant,"Director of Pharmacy, Table 1",3,7857,Named turns with explicit Director of Pharmacy role wording.
+D4_P03,HWEL1AR.docx,1,participant,"Home care participant, Hamad Medical Corporation, Table 1",4,2418,Named turns with explicit home-care role wording.
+D4_P04,HWEL1AR.docx,1,participant,"Service recipient, Table 1",3,1747,Transcript labels speaker as (patient) with substantive turns.
+D4_P05,HWEL1AR.docx,1,participant,"Participant, Hamad Medical Corporation, Table 1",2,969,Named turns with institutional affiliation.
+D4_P06,HWEL1AR.docx,1,participant,"Participant, role not stated, Table 1",2,950,Named substantive turns in HWEL1AR.
+D4_P07,HWEL1AR.docx,1,participant,"Participant, role not stated, Table 1",1,1112,Named substantive turns in HWEL1AR.
+D4_P08,HWEL3AR.docx,3,participant,"Participant, Hamad Medical Corporation, Table 3",12,10193,Repeated short-label turns and one fuller role-labelled line.
+D4_P09,HWEL3AR.docx,3,participant,"Psychologist, Ihsan Center, Table 3",2,1000,Repeated short-label turns and embedded PSYCHOLOGIST - Ihsan Center role.
+D4_P10,HWEL3AR.docx,3,participant,"Social-welfare / social-work participant, Table 3",4,3873,Named turns with social-work / welfare role labels.
+D4_P11,HWEL3AR.docx,3,participant,"Participant, role not stated, Table 3",2,1011,Named roster in HWEL3NT1 and corresponding transcript turns.
+D4_P12,HWEL3AR.docx,3,participant,"Occupational therapy, elderly care, Hamad Medical Corporation, Table 3",8,8398,Named turns with occupational-therapy role label.
+D4_P13,HWEL7AR.docx,7,participant,"Rehabilitation-hospital participant, Table 7",10,7202,Repeated named substantive turns including rehabilitation-hospital experience.
+D4_P14,HWEL7AR.docx,7,participant,"Home care physician, Table 7",13,13291,Repeated named turns with home-care physician positioning.
+D4_P15,HWEL7AR.docx,7,participant,"Participant, role not stated, Table 7",19,7481,Repeated named substantive turns in HWEL7AR.
+D4_P16,HWEL7AR.docx,7,participant,"Participant, role not stated, Table 7",4,2214,Repeated named substantive turns in HWEL7AR.
+D4_P17,HWEL7AR.docx,7,participant,"Elderly-center participant, Table 7",10,6507,Repeated named turns with elderly-center service-experience examples.
+D4_P18,HWEL7AR.docx,7,participant,"Service recipient, Table 7",1,45,Named turn and moderator clarification of service-user voice.
+D4_P19,HWEL7AR.docx,7,participant,"Participant, role not stated, Table 7",2,83,Named turns late in transcript; brief contribution.
+D4_P20,HWEL7AR.docx,7,participant,"Senior public-sector leader, Table 7",5,3590,Repeated substantive turns labeled al-wazir with late role-description line.
+D4_P21,HWEL7AR.docx,7,participant,"Participant, role not stated, Table 7",2,1273,Named substantive turn late in HWEL7AR; role not preserved.
+D4_P22,HWEL9AR.docx,9,participant,"Social worker, Ihsan Center, Table 9",176,11813,Repeated role-labelled turns in HWEL9AR.
+D4_P23,HWEL9AR.docx,9,participant,"Acute geriatric and elderly care, Hamad Medical Corporation, Table 9",143,10609,Repeated role-labelled turns in HWEL9AR.
+D4_P24,HWEL9AR.docx,9,participant,"Senior pharmacist, Naufar, Table 9",16,1514,Repeated role-labelled turns in HWEL9AR.
+D4_P25,HWEL9AR.docx,9,participant,"Service recipient / patient voice, Table 9",298,20364,Repeated substantive turns labeled patient in HWEL9AR.
+D4_P26,HWEL10AR.docx,10,participant,"Consultant in family medicine, PHCC, Table 10",6,2601,Stable named turns in English transcript corroborated by HWEL10NT2.
+D4_P27,HWEL10AR.docx,10,participant,"Student, HBKU, Table 10",5,1767,Stable named turns in English transcript corroborated by HWEL10NT2.
+D4_P28,HWEL10AR.docx,10,participant,"Rumailah Hospital participant, Table 10",6,2568,Stable named turns in English transcript corroborated by HWEL10NT2.
+D4_P29,HWEL10AR.docx,10,participant,"Qatar University participant, Table 10",4,2344,Stable named turns in English transcript corroborated by HWEL10NT2.
