@@ -10,6 +10,8 @@
  
  This means the work focuses on identifying patterned meaning within the CASE_D1 material rather than counting responses or testing a fixed framework. Coding and theme development are interpretive and iterative. The discussion guide is used to preserve the sequence of the conversation, but the final themes are developed from the data rather than copied from the guide questions.
 
+ Keyword or pattern matching may be used to help retrieve material, index segments, preserve traceability, and organise supporting evidence, but it is not the primary theme-generation method. A segment may support a theme without containing an expected keyword, and a keyword hit does not automatically establish thematic support.
+
 ## Data used
 The analysis used prepared Day 1 materials for CASE_D1 only.
 
@@ -36,9 +38,11 @@ The analysis used prepared Day 1 materials for CASE_D1 only.
  
  ### 4. Code the material into meaning units
  The prepared CASE_D1 sources are segmented into coded meaning units. These segments capture short pieces of data that express a relevant idea, concern, tension, or proposed solution.
- 
+  
  Coding is interpretive rather than purely descriptive. Some codes stay close to participant wording, while others capture the underlying meaning of a segment. The coded material is organised into the CASE_D1 coded-segment dataset and then consolidated into a working codebook.
  
+ This coding layer functions as a support structure for retrieval, comparison, traceability, and evidence organisation. It does not mechanically determine whether a segment supports a theme.
+
  ### 5. Write reflexive analytic memos during coding
  Reflexive memos are written during the coding process to document decisions, uncertainties, and methodological boundaries. These memos cover:
  - coding reflection
@@ -52,6 +56,8 @@ The analysis used prepared Day 1 materials for CASE_D1 only.
  After coding, related patterns are grouped into candidate themes. These candidate themes are then reviewed and refined to test whether they represent a coherent patterned meaning across the CASE_D1 material.
  
  The final themes are not produced by simply collecting similar topics. They are developed by asking whether different excerpts express a broader shared meaning and whether that meaning matters for understanding the Day 1 case as a whole.
+ 
+ Close reading, question context, speaker role, discussion flow, tensions, contradictions, memo-based reasoning, and culturally informed interpretation of Arabic and mixed-language material are used to judge thematic fit. Keyword cues are treated only as support aids for retrieval and review.
 
  This refinement process resulted in four final CASE_D1 themes:
  1. Wellbeing is built through balanced contentment, safety, and morally grounded steadiness
@@ -85,7 +91,7 @@ No translated derivative dataset was created to replace the original material. T
  - a CSV validation report
  - processing log and audit-trail entries
  
- These materials support transparency, auditability, and consistency across the case analysis. They also allow moderator or question-like framing to be separated from participant evidence in later reporting outputs.
+ These materials support transparency, auditability, and consistency across the case analysis. They also allow moderator or question-like framing to be separated from participant evidence in later reporting outputs. They support retrieval, traceability, and evidential organisation, but they are not treated as automatic theme generators.
 
  ## What this methodology was designed to do
  This methodology was designed to answer three linked questions within CASE_D1:

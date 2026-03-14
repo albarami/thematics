@@ -164,6 +164,7 @@ Checklist:
 - Keep code labels clear and analytically useful.
 - Record short definitions or analytic comments where needed.
 - Allow both close-to-data codes and more interpretive codes.
+- Treat indicator terms or pattern cues as retrieval and indexing aids, not as automatic proof of thematic support.
 - Revise the codebook as coding understanding develops.
 
 Required output:
@@ -191,8 +192,11 @@ Move from codes to broader patterned meanings within the case.
 
 Checklist:
 - Group related codes into candidate themes.
-- Test whether grouped segments express a broader shared meaning.
+- Test whether grouped segments express a broader shared meaning in context, not just repeated topic words.
 - Check whether the candidate theme is coherent across case materials.
+- Use keyword or pattern hits only to retrieve candidate material for review, never as an automatic theme-assignment rule.
+- Allow segments to support a theme even where no expected keyword is present if close reading, question context, speaker role, discussion flow, or memoed interpretation justify inclusion.
+- Interpret Arabic concepts, local cultural meanings, tensions, and contradictions in context rather than by literal term matching alone.
 - Separate major themes from tensions, divergences, and lower-level observations.
 - Do not use salience counts to generate themes.
 
@@ -207,6 +211,7 @@ Checklist:
 - Check theme boundaries so themes remain distinct.
 - Identify supporting excerpts.
 - Record source spread and divergent material.
+- Confirm that supporting evidence reflects contextual interpretation and memo-based reasoning rather than keyword repetition alone.
 - Confirm that the final themes explain the case better than a list of topics would.
 
 Required outputs:

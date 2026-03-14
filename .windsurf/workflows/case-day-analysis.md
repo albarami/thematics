@@ -95,6 +95,7 @@ Confirm:
 4. Mixed-language excerpts preserve original-language authority
 5. No orphan segments (segments not linked to any code)
 6. No orphan codes (codes with no segments)
+7. Any keyword or pattern cues used during coding are documented as retrieval or indexing aids, not as automatic proof of thematic support
 
 **Required output:**
 - `{CASE}_coding_integrity_report.md`
@@ -118,6 +119,8 @@ Confirm:
 3. No theme-question claim is made without segment support
 4. Final theme names are locked and used identically across all files
 5. Theme names include any essential qualifiers (e.g. "around children")
+6. Theme development is justified through contextual interpretation, memo-based reasoning, question context, speaker role, discussion flow, and tension or contradiction analysis rather than repeated keywords alone
+7. Arabic concepts and local cultural meanings are interpreted in context rather than reduced to literal term matching
 
 **Required output:**
 - `{CASE}_theme_integrity_report.md`
@@ -176,6 +179,7 @@ Confirm:
    - make cross-case claims
    - use D1SEG-style IDs for a different day
 5. Appendices include: method note, data sources, theme definitions, prominence note, translation note
+6. The method note and report language describe coding, keyword retrieval, matrices, and tables as support structures for traceability and evidence organisation rather than as the primary theme-generation method
 
 **Required output:**
 - `{CASE}_report_integrity_check.md`

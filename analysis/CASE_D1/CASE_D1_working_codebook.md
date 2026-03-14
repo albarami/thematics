@@ -76,7 +76,8 @@
 ## Codebook notes
 - Codes are not mutually exclusive. A single segment may carry multiple codes.
 - Code families loosely correspond to emerging theme areas but final theme boundaries are determined in Phase 4.
-- The `general_response` code captures substantive Arabic discussion content where keyword-based pattern matching is insufficient. These segments remain analytically available and are interpreted through close reading during theme development.
-- 35 specific codes plus 1 residual code applied across 1158 segments (811 participant, 278 moderator, 69 unclear).
+- Example indicators are retrieval and indexing aids, not automatic proof that a segment supports a theme.
+- The `general_response` code captures substantive discussion content where keyword or pattern cues do not adequately index the segment. These segments remain analytically available and are interpreted through close reading, question context, speaker role, and memo-based reasoning during theme development.
+- 35 specific codes plus 1 residual code applied across 1158 segments (805 participant, 278 moderator, 75 unclear).
 - Note: The coded segments CSV contains only transcript-derived segments. Note-taker files were used for familiarisation and triangulation but were not coded as separate segment rows. The `speaker_type` field in the coded segments distinguishes participant, moderator, and unclear speakers; the value `note_taker_summary` does not appear because note content was not segmented into the coding dataset.
-- Three sources (HWCH3AR, HWCH4AR, HWCH7AR) have all or most participant segments coded as `general_response` due to limitations of keyword-based pattern matching on colloquial Arabic. Their analytical contribution is captured through close reading during theme development and familiarisation, not through automated code-to-theme mapping.
+- Three sources (HWCH3AR, HWCH4AR, HWCH7AR) have all or most participant segments coded as `general_response` because the support-layer cues do not capture their colloquial Arabic register consistently. Their analytical contribution is captured through close reading during theme development and familiarisation, not through automatic code-to-theme mapping.

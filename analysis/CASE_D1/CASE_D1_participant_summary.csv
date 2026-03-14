@@ -1,5 +1,6 @@
 anonymized_code,source_file,table_id,speaker_type,segment_count,total_chars,questions_covered,top_codes
 D1_M01,HWCH0AR.docx,0,moderator,140,17289,Q1;Q2;Q3;Q5,general_response;practical_recommendation;healthcare_system_critique;pillar_social;interdependent_care
+D1_M02,HWCH2AR.docx,2,moderator,0,0,,
 D1_M03,HWCH3AR.docx,3,moderator,48,20413,Q3,general_response;healthcare_worker_wellbeing;awareness_education;healthcare_system_critique;training_deficit
 D1_M04,HWCH4AR.docx,4,moderator,43,15191,Q1;Q2;Q3;Q4;Q5;Q6;Q7,general_response;professional_identity
 D1_M05,HWCH6AR.docx,6,moderator,4,766,Q1,general_response

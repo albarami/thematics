@@ -525,11 +525,16 @@ def build_excerpt_bank(
     return rows
 
 
-def build_participant_summary(clean_segments: list[dict[str, str]]) -> list[dict[str, str]]:
-    """Aggregate per-speaker summaries from the cleaned coded segments."""
+def build_participant_summary(
+    clean_segments: list[dict[str, str]],
+    outward_register: list[dict[str, str]],
+) -> list[dict[str, str]]:
+    """Aggregate per-speaker summaries from the cleaned coded segments and register."""
     grouped: dict[tuple[str, str, str, str], dict[str, Any]] = defaultdict(
         lambda: {"segment_count": 0, "total_chars": 0, "questions": set(), "codes": Counter()}
     )
+    for row in outward_register:
+        grouped[(row["anonymized_code"], row["source_file"], row["table_id"], row["speaker_type"])]
     for row in clean_segments:
         speaker_code = row["speaker_code"]
         if not speaker_code:
@@ -887,7 +892,7 @@ def main() -> None:
     segment_lookup = {row["segment_id"]: row for row in raw_segments}
     excerpt_rows = build_excerpt_bank(raw_excerpt_rows, segment_lookup, label_map, replacements)
     outward_register = build_outward_participant_register(original_register, replacements)
-    summary_rows = build_participant_summary(clean_segments)
+    summary_rows = build_participant_summary(clean_segments, outward_register)
     source_rows = build_source_contribution(clean_segments)
     matrix_rows = build_question_theme_matrix(clean_segments)
     evidence_rows = build_question_evidence(clean_segments)

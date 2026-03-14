@@ -12,12 +12,12 @@ This cross-check report supersedes the previous version. It documents the struct
 |-------|--------|
 | Package separation | PASS — outward-facing files are collected in `OUTWARD_FACING_PACKAGE/`; named internal files are retained in `INTERNAL_CONFIDENTIAL/` |
 | Stable anonymized codes only | PASS — outward-facing layer uses `D1_P01–D1_P27`, `D1_M01–D1_M08`, and `D1_U01–D1_U04` only |
-| Fallback IDs removed | PASS — no `D1_P_Tx`, `D1_M_Tx`, or `D1_UNK` identifiers remain in outward-facing exports |
+| Fallback IDs removed | PASS — no provisional or fallback anonymization identifiers remain in outward-facing exports |
 | Structured segment counts | PASS — 1,158 total coded segments = 805 participant + 278 moderator + 75 unclear |
 | Excerpt-bank evidence types | PASS — 51 rows = 41 `verbatim_transcript`, 7 `note_style_transcript_summary`, 3 `note_taker_summary` |
 | Theme 4 Q6/Q7 claim | PASS — 0 coded Theme 4 segments in Q6 and Q7; narrative explicitly says close-reading only |
 | Field schema | PASS — coded segments use `speaker_code`, `speaker_type`, `role_label`, and `attribution_status` |
-| Report/table agreement | PASS — final report, theme matrix, salience table, source contribution table, and participant summary now agree on counts |
+| Report/table agreement | PASS — corrected report quotation placement now matches the outward-facing evidence layer, and coded-theme claims remain aligned with the matrix and source contribution table |
 
 ## Separated Package Inventory
 
@@ -58,6 +58,7 @@ This cross-check report supersedes the previous version. It documents the struct
 |--------|-------|
 | Day 1 source count | 17 (7 transcripts, 8 note files, 1 temp-lock file, 1 recommendation workbook) |
 | Participant register count | 37 rows (27 participant, 8 moderator, 2 unclear) |
+| Participant summary count | 37 rows (27 participant, 8 moderator including zero-turn `D1_M02`, 2 unclear) |
 | Total coded segments | 1,158 |
 | Participant segments | 805 |
 | Moderator segments | 278 |
@@ -79,8 +80,8 @@ This cross-check report supersedes the previous version. It documents the struct
 | 4 | Quotation provenance is explicit and truthful | PASS |
 | 5 | `note_taker_summary` evidence is preserved in the excerpt bank without being falsely claimed as coded transcript rows | PASS |
 | 6 | Theme 4 Q6/Q7 narrative matches the matrix (`0` coded segments; close-reading only) | PASS |
-| 7 | Source-contribution claims match the rebuilt CSVs (`HWCH3AR`, `HWCH4AR`, `HWCH7AR` have no coded theme matches) | PASS |
-| 8 | Report, matrix, salience table, and participant/source summaries agree on counts | PASS |
+| 7 | Source-contribution claims match the rebuilt CSVs (`HWCH2AR` remains coded for Themes 2 and 3 only; `HWCH3AR`, `HWCH4AR`, and `HWCH7AR` have no coded theme matches) | PASS |
+| 8 | Report quotation placement, matrix counts, and participant/source summaries now follow one consistent outward-facing rule | PASS |
 | 9 | Outward-facing package inventory claims match the separated folders | PASS |
 | 10 | Contradictions remaining in outward-facing package | PASS — 0 identified in this reconciliation pass |
 

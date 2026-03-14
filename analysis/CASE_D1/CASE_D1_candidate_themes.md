@@ -3,7 +3,7 @@
 ## Development process
 Candidate themes were developed through iterative engagement with the Day 1 data:
 1. Deep familiarisation with all 7 transcripts and 8 note files
-2. Systematic coding at meaning-unit level (1158 segments, 811 participant)
+2. Systematic coding at meaning-unit level (1,158 segments, 805 participant)
 3. Code clustering by semantic affinity and analytical function
 4. Testing theme boundaries against evidence distribution across questions and tables
 

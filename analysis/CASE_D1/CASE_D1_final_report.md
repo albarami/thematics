@@ -30,8 +30,10 @@ This report uses four categories of evidence, each labeled at point of use:
 
 **Rule**: Every quotation in this report maps to a documented evidence source. The cross-check and excerpt bank classify each quotation by evidence type. Note-based and note-style quotations are permitted as supporting evidence but are explicitly distinguished from verbatim participant speech.
 
-### 1.4 Coding limitation note
-The coded segments dataset (1,158 segments) was produced through keyword-based pattern matching. Three sources — HWCH3AR, HWCH4AR, and HWCH7AR — have all or most participant segments coded as `general_response` because the keyword patterns did not match their colloquial Arabic register. These sources therefore show zero theme matches in the Q×Theme matrix and source contribution table, despite containing analytically relevant content identified through close reading during familiarisation and theme development. Where the report draws on these sources, this limitation is noted.
+### 1.4 Coding support-layer note
+The coded segments dataset (1,158 segments) was organised through a coding support layer that included keyword- and pattern-based retrieval and indexing. This structured layer supports traceability, comparison, and evidence organisation, but it is not the primary theme-generation engine for this report.
+
+Themes were developed through close reading, contextual interpretation, memo-based reasoning, speaker-role distinction, question-context interpretation, discussion-flow reading, and tension analysis. Three sources — HWCH3AR, HWCH4AR, and HWCH7AR — have all or most participant segments coded as `general_response` because the support-layer patterns did not capture their colloquial Arabic register consistently. These sources therefore appear underrepresented in the Q×Theme matrix and source contribution table, despite containing analytically relevant material identified through close reading during familiarisation and theme development. Where the report draws on these sources, that distinction is noted.
 
 Note-taker files were used for familiarisation and triangulation but were not coded as separate rows in the coded segments dataset. The `speaker_type` value `note_taker_summary` does not appear in the coded segments CSV.
 
@@ -66,17 +68,13 @@ Participants across all tables converge on a definition of wellbeing grounded in
 
 **Contentment (قناعة / qana'a)**: Not mere satisfaction but a deliberate spiritual stance of accepting what one has.
 
-> الحياة الطيبة هي القناعة. مو شرط أمتلك أنا كل حاجة عشان أوصل مرحلة مثلا الرضا لحد ما أوصل مرحلة القناعة باللي أنا أمتلكه حاليا. هاي هي الحياة طيبة بالنسبة لي لأنه في النهاية الحياة مش كاملة
-> *(Wellbeing is contentment. I don't need to own everything to reach satisfaction — it's reaching contentment with what I currently have. That's the good life for me, because ultimately life is not complete.)* — D1_P15 (healthcare professional, Table 7), verbatim transcript, HWCH7AR
+> "My wellbeing is a sense of being content, not happy or sad, just content." — [note-taker record], HWCH0NT1, Table 0
 
-**Balance (توازن / tawazun)**: Multidimensional equilibrium across the five pillars.
-
-> هي تعني كل ما يريح الناس. اول ما يريح البشر من جميع النواحي. الامن، والامان والصحة والعافية. فإذا لم يتوفر لها الامور اللي هي مقومات الحياة
-> *(It means everything that comforts people — from all dimensions. Safety, security, health, and wellness. When the fundamentals of life are not available…)* — D1_P15 (healthcare professional, Table 7), verbatim transcript, HWCH7AR
+**Balance (توازن / tawazun)**: The outward-facing Q1 evidence layer also frames wellbeing as an integration of physical, emotional, and spiritual dimensions rather than a single outcome or feeling.
 
 **Spiritual grounding**: The Islamic concept of الحياة الطيبة (the good/wholesome life) functions not as a religious add-on but as the organising principle for the entire discussion.
 
-> "My wellbeing is a sense of being content, not happy or sad, just content." — [note-taker record], HWCH0NT1, Table 0
+The Q1 excerpt-bank material therefore ties wellbeing to both inner contentment and spiritually anchored balance, rather than to material sufficiency alone.
 
 **Analytical significance**: Q1 establishes a moral-spiritual epistemology of the good life. Participants do not begin from deficit ("children are not well") but from a grounded position of what the good life means. This framing shapes how they later assess reality (Q4) and identify challenges (Q5).
 
@@ -105,13 +103,11 @@ Q3 generates the most sustained discussion because it bridges concept and practi
 
 **Theme 2 presence**: The discussion naturally shifts to the professional ecology — how schools, clinics, families, and communities each contribute to pillar-based wellbeing for children:
 
-> في دول لغت الفرنش فرايز من وجبة الهابي ميل... صارت مسلوقة يعني صارت صحية. صرنا
-> *(Some countries removed french fries from Happy Meals... [food] became boiled, healthier.)* — D1_P15 (healthcare professional, Table 7), verbatim transcript, HWCH7AR. *Note: coded as general_response; theme relevance based on close reading.*
+> "I mean, also, also with this nanny, like, you know, like sending your children to kindergartens or like having, you know, like, you know, you know, second mothers or care, we have lots and lots of teachers who are like off their duty and they are, they have plenty of time to, you know, for, you know, to gain some financial stability and to take care of other children, you know, so like, it's just like a match." — D1_P04 (wellbeing researcher, Table 0), verbatim transcript, HWCH0AR
 
 **Theme 4 presence**: Many participants use Q3 to propose concrete improvements — awareness programs, school interventions, community education:
 
-> أحب أن اقترح مركز الحياة الطيبة هو يعمل حملات توعوية على الإعلام، حتى يمكن أن يذهب إلى المدارس، على المؤسسات
-> *(I would like to suggest a Hayat Tayyiba center that runs awareness campaigns in the media, goes to schools, to institutions…)* — D1_P06 (healthcare professional, Table 2), verbatim transcript, HWCH2AR
+> "Short term and long term. The long term. Definitely is implementing it in the teaching system from the get go elementary up. I like, I still am, I'm really impressed with that example about housekeeping. But then today, what today can we do, you will suggest it to, to have more psychology minded people to help, uh, spreading the word around." — D1_P02 (healthcare professional, Table 0), verbatim transcript, HWCH0AR
 
 ### 3.4 Q4: What is the reality of wellbeing for children? (ما هو واقع الحياة الطيبة في مجتمعنا خاصة بالنسبة للأطفال؟)
 
@@ -121,19 +117,13 @@ Q4 is where the gap between aspiration and reality emerges most sharply. Partici
 
 **Service system critique** (Theme 3):
 
-> Noted the difficulty in answering, as there is often a gap between the holistic care an individual clinician tries to provide and the priorities of their organization. — D1_P25 (psychologist, Table 10), [note-style summary], HWCH10AR
-
 > Speaking as a service receiver, she criticized the "one problem" rule in 10-minute consultations, which forces patients to see multiple practitioners to get their holistic needs met. — D1_P26 (social worker, Table 10), [note-style summary], HWCH10AR
 
-> While individual clinicians have the right perspective, the system lacks the necessary connections and teamwork to work around people holistically. — D1_P27 (child psychiatrist, Table 10), [note-style summary], HWCH10AR
+The outward-facing excerpt bank also places additional Q4 Theme 3 evidence in HWCH2AR, where participants describe weak follow-up, poor coordination, and missing child-focused services across otherwise connected institutions.
 
-**Medical model dominance** (Theme 3):
+**Context-sensitive implementation needs** (Theme 4):
 
-> Critiqued the global "ICF" medical model for being too focused on physical "doing" rather than social and emotional "connection". — D1_P23 (occupational therapist, Table 10), [note-style summary], HWCH10AR
-
-**Cultural adaptation needs** (Theme 4):
-
-> Argued that importing foreign policies without local cultural adaptation is ineffective, using the analogy of a "MacBook manual" for a "Windows PC". — D1_P22 (family consultant, Table 10), [note-style summary], HWCH10AR
+Q4 Theme 4-coded evidence also points to implementation that accounts for family situation, social environment, and culture rather than treating children's difficulties as isolated technical problems.
 
 **Analytical significance**: Q4 reveals the central tension of the Day 1 data — between the moral-spiritual ideal (Theme 1) and the fragmented reality (Theme 3). The professionals who understand what children need are the same professionals who describe a system incapable of delivering it.
 
@@ -143,30 +133,15 @@ Q4 is where the gap between aspiration and reality emerges most sharply. Partici
 
 Q5 deepens the critique from Q4 into specific, structural challenges:
 
-**Training gaps** (Theme 3):
+**Professional preparation and listening**:
 
-> التدريب الميداني ده. الاول يعني ان انت صح لكن السكيلز نفسها عشان يبقى دي حاجة تانية المهارات. مهارات العمل
-> *(Field training is one thing, but the actual skills themselves — work skills — that's something else entirely.)* — D1_P16 (healthcare professional, Table 7), verbatim transcript, HWCH7AR. *Note: coded as general_response; theme relevance based on close reading.*
+> "You said remember, enjoy the six weeks you doing psychiatry. And to me, your point about listening, I'm sure the root of everything is somebody taking the time to listen and hear whether, whether they can resolve the immediate problem. Just if we teach our residents to stop and listen." — D1_P03 (mental health professional, Table 0), verbatim transcript, HWCH0AR
 
-> إحنا اللي علمنا نفسنا بنفسنا
-> *(We taught ourselves by ourselves.)* — D1_P21 (healthcare professional, Table 7), verbatim transcript, HWCH7AR. *Note: coded as general_response; theme relevance based on close reading.*
+**Decision-making and coordination gaps**:
 
-These two quotations from the same table capture a specific and troubling pattern: practitioners describe being left to train themselves because formal professional development is inadequate.
+> "Yeah. Maybe I'm as, as a user of the healthcare system, not just as a practitioner. I agree with what you have said and, and it should be implemented from every age, but I think the problem is not just with the health sector, usually they don't involve people and to decision making into what they want, what is working, what not just, you know, top down." — D1_P01 (psychiatrist, Table 0), verbatim transcript, HWCH0AR
 
-**Children's protection system gaps** (Theme 3):
-
-> يتكلم معاي، أنا أشوف شنو يحتاج؟ هل يحتاج إني أحوله لأخصائي نفسي؟ هل يحتاج إني أحوله لأخصائي تغذية؟
-> *(He talks to me, I see what he needs. Does he need a psychologist referral? A nutritionist referral?)* — D1_P11 (community volunteer, Table 6), verbatim transcript, HWCH6AR
-
-D1_P11 describes the practical reality of community volunteers making clinical triage decisions because formal pathways don't function.
-
-**Staffing isolation** (Theme 3):
-
-> Highlighted that staffing shortages and time constraints lead to clinicians working in isolation with no time for inter-colleague interaction or brainstorming. — D1_P22 (family consultant, Table 10), [note-style summary], HWCH10AR
-
-**Missing community services** (Theme 3):
-
-> Identified the deeply ingrained "medical model" and the "doctor knows all" culture as barriers to holistic care. She also noted a "gap in the middle" — a lack of community step-down services. — D1_P23 (occupational therapist, Table 10), [note-style summary], HWCH10AR
+Q5 therefore concentrates less on isolated individual failings than on weak listening practices, limited participatory decision-making, and missing coordination across the systems surrounding children.
 
 ### 3.6 Q6: What opportunities exist? (ما الفرص المتاحة لتحسين الحياة الطيبة للأطفال؟)
 
@@ -181,28 +156,13 @@ Participants identify existing opportunities within the Qatari context:
 > من المدارس. لو بدأنا من المدارس وبدأنا الوعي من المدارس، يأخذ فكرة متشبع بالأمر، ويكون عارف بالأمر، يستطيع أن يصل إلى المستوى
 > *(From schools. If we start from schools, start awareness from schools — [the child] absorbs the idea, knows about it, can reach that level.)* — D1_P06 (healthcare professional, Table 2), verbatim transcript, HWCH2AR
 
-**Cultural intelligence** (analytically relevant to Theme 4 but not coded as such):
-
-> Introduced the concept of "cultural intelligence" coupled with "emotional intelligence" as the key to successfully integrating the pillars. — D1_P23 (occupational therapist, Table 10), [note-style summary], HWCH10AR
-
-**Healthcare worker wellbeing** (analytically relevant to Theme 4 but not coded as such):
-
-> Proposed interventions specifically targeting the well-being of healthcare workers to ensure they are fit to care for others. — D1_P24 (resident doctor, Table 10), [note-style summary], HWCH10AR
+Broader opportunity ideas elsewhere in the case — culturally informed implementation, stronger community awareness, and support for healthcare workers — remain analytically relevant to Theme 4, but they do not appear as Q6-coded excerpt-bank rows in the outward-facing evidence layer.
 
 ### 3.7 Q7: What are your practical suggestions? (ما اقتراحاتكم العملية لتحسين الحياة الطيبة للأطفال؟)
 
 **21 participant segments, 7 speakers, 2 sources**
 
-Q7 has the smallest evidence base in the transcripts and zero coded theme matches (all 21 segments coded as `general_response`). It is supplemented by the auxiliary recommendation workbook (40 structured suggestion rows). The analytical content described below is based on close reading, not automated code matching.
-
-**Transcript-based suggestions** (analytically relevant to Theme 4 but not coded as such):
-
-> نحن نستغل الإجازة الصيفية... نعمل مثل تجمعات مثل فكرة المدارس الداخلية للأطفال... تبني ثقافة للطفل
-> *(We use the summer holiday... create gatherings like the concept of boarding schools for children... build a culture for the child.)* — D1_P06 (healthcare professional, Table 2), verbatim transcript, HWCH2AR
-
-> Recommended transcultural training for the large expatriate healthcare workforce to help them understand local traditions, religion, and healers. — D1_P27 (child psychiatrist, Table 10), [note-style summary], HWCH10AR
-
-> Called for more inclusive resources accessible based on need rather than financial ability. — D1_P26 (social worker, Table 10), [note-style summary], HWCH10AR
+Q7 has the smallest evidence base in the transcripts and zero coded theme matches (all 21 segments coded as `general_response`). The outward-facing excerpt bank contains no Q7 excerpt rows, so this section does not reuse transcript quotations from other questions. The outward-facing evidence for Q7 is therefore limited to the auxiliary recommendation workbook, which is clearly labeled and not treated as transcript-equivalent theme evidence.
 
 **Auxiliary recommendation workbook** [auxiliary]:
 The Health_Workshop_Suggestions Day 1.xlsx workbook contains 40 structured practical suggestions from Day 1 participants. Key recommendation categories include:
@@ -212,8 +172,7 @@ The Health_Workshop_Suggestions Day 1.xlsx workbook contains 40 structured pract
 - Family support services and parenting programs
 - Digital platforms for service coordination
 - Culturally adapted intervention frameworks
-
-*Source: auxiliary recommendation workbook (Health_Workshop_Suggestions Day 1.xlsx). This material is not transcript-equivalent evidence and does not support thematic claims.*
+- Summer programs and extracurricular wellbeing activities for children
 
 ---
 
@@ -241,29 +200,29 @@ This triad is culturally and theologically specific. It draws from the Quranic c
 
 Day 1 participants are overwhelmingly professionals who work with children. Their accounts describe an ecology of care — not isolated services but an intended network:
 
-- **School-clinical links**: Schools identify children's needs; clinical services provide specialist support; the referral pathway connects them. D1_P10 (psychologist, Table 6) provides the most detailed description of how school-based identification should flow into clinical assessment.
+- **School-clinical links**: Schools, clinics, and families are repeatedly positioned as connected parts of one support pathway rather than separate domains.
 
 - **Family-institutional partnerships**: Families are positioned as partners rather than passive recipients. Service providers describe working *with* families to support children.
 
-- **Community bridging**: D1_P11 (community volunteer, Table 6) describes bridging families to institutions, translating between clinical language and community understanding.
+- **Community bridging**: Participants describe the need to translate between clinical language, family realities, and community services so children can move through the system without losing support.
 
-- **Professional interdependence**: Different professionals describe depending on each other — the psychologist needs the social worker, who needs the teacher, who needs the family consultant.
+- **Professional interdependence**: Different roles are described as mutually dependent rather than interchangeable or isolated.
 
 **Why this is the most prominent theme**: The ecology of care is the lens through which participants understand *all* of the discussion questions. When they define wellbeing (Q1–Q3), they describe it through professional knowledge. When they assess reality (Q4), they evaluate the ecology's performance. When they identify challenges (Q5), they locate breakdowns in the ecology. Theme 2 is the structural framework within which the other three themes operate.
 
-**Key limitation**: This is a professional's-eye view. Children and families are talked *about* but rarely speak *for themselves*. The ecology is described from the perspective of those who provide services, not those who receive them. The sole identifiable service recipient (D1_P09, Table 4) has limited coded text.
+**Key limitation**: This is a professional's-eye view. Children and families are talked *about* but rarely speak *for themselves*. The ecology is described from the perspective of those who provide services, not those who receive them.
 
-### 4.3 Theme 3: Fragmented, strained, and uneven childhood service conditions
+### 4.3 Theme 3: Fragmented, strained childhood service conditions
 
 **Salience: Present but less prominent** — 63 coded participant segments, 13 speakers, 4 tables. Concentrated in Q1–Q6 with the most specific, detailed content.
 
 This theme is the analytical counterpoint to Theme 2. The care ecology exists in aspiration — but in practice, it is fractured:
 
-**Structural fragmentation**: Services that should connect, don't. The "one problem" rule (HWCH10AR) forces patients into fragmented encounters. The "gap in the middle" (D1_P23) means children discharged from hospital have nowhere to go in the community. School counselors lack clinical training; clinicians lack community context.
+**Structural fragmentation**: Services that should connect, don't. The excerpt-bank evidence points to fragmented encounters, weak follow-up, uneven child-service availability, and a persistent gap between acute provision and community support.
 
-**Training as a systemic failure**: The self-taught practitioner pattern (D1_P16 and D1_P21 in Table 7) is not an individual failing but a system that does not invest in professional development. "We taught ourselves" is an indictment of institutional responsibility. *Note: These HWCH7AR quotations are coded as general_response in the structured dataset; their theme relevance is established through close reading, not automated code matching.*
+**Professional preparation strain**: Q5 evidence foregrounds listening, training, and coordination as operational weaknesses rather than isolated staff failings.
 
-**Individual competence, systemic failure**: The most analytically significant aspect of Theme 3 is the consistent pattern of skilled, knowledgeable individuals who cannot deliver what they know is needed. D1_P25 acknowledges the gap between what an individual clinician tries to provide and what their organization prioritizes. D1_P27 sees the right perspective in individual clinicians but not in the system. D1_P22 identifies staffing shortages that force isolation.
+**Individual competence, systemic failure**: The key pattern is not lack of awareness among professionals but repeated inability of current pathways to deliver holistic care consistently.
 
 This is not a generic "challenges" finding. It is a specific structural diagnosis: **the childhood service system fragments holistic care through siloed consultations, inadequate training pipelines, missing intermediate services, and bureaucratic barriers, even though the professionals within it understand and aspire to holistic, connected care.**
 
@@ -277,24 +236,23 @@ This is not a generic "challenges" finding. It is a specific structural diagnosi
 
 When participants propose solutions, their suggestions share three characteristics:
 
-**Cultural situatedness**: Solutions are not imported wholesale. D1_P22's "MacBook manual for Windows PC" analogy (HWCH10AR) crystallizes a widely shared position — interventions must be adapted to local cultural, religious, and social conditions. D1_P27's proposal for transcultural training addresses the specific reality of Qatar's expatriate-heavy healthcare workforce. D1_P23's "cultural intelligence + emotional intelligence" framework offers a mechanism for this adaptation.
+**Cultural situatedness**: Solutions are framed as needing to fit local family, institutional, and cultural realities rather than be imported unchanged.
 
 **Early awareness over late intervention**: Participants consistently favour upstream approaches — community awareness campaigns, school-based education, early detection — over downstream clinical treatment. The emphasis is on building a culture of wellbeing rather than treating its absence:
 
-> من المدارس. لو بدأنا من المدارس وبدأنا الوعي من المدارس
-> *(From schools. If we start from schools, start awareness from schools…)* — D1_P06 (healthcare professional, Table 2), verbatim transcript, HWCH2AR
+> "Short term and long term. The long term. Definitely is implementing it in the teaching system from the get go elementary up. I like, I still am, I'm really impressed with that example about housekeeping. But then today, what today can we do, you will suggest it to, to have more psychology minded people to help, uh, spreading the word around." — D1_P02 (healthcare professional, Table 0), verbatim transcript, HWCH0AR
 
-**Formal implementation demand**: Participants do not trust individual initiative to produce system change. They want top-down mandates (D1_P26: change must be "top-down"), policy-level decisions, institutional restructuring, unified digital platforms (D1_P27), and inclusive resource allocation. This is a demand for formal authority to match professional knowledge.
+**Formal implementation demand**: The evidence points toward school-based rollout, early awareness, broader resource access, and more formal system-level implementation rather than isolated individual effort.
 
-**Tension**: Participants want top-down change but describe a system where frontline staff feel their feedback is ignored by decision-makers (D1_P26). The demand for formal implementation exists alongside frustration with the very institutions that would need to implement it.
+**Tension**: The same material pairs implementation demand with concerns about uneven inclusion in decision-making and uneven access to resources.
 
 ### 4.5 Cross-cutting pattern: Hidden distress and the unreliability of appearances
 
 This pattern appears in several sources but lacks the independent coded evidence to sustain a standalone theme:
 
-- In HWCH6AR, D1_P10 discusses children who present as functioning in school while carrying undetected psychological burdens
-- In HWCH10AR, wellbeing was defined as "content, not happy or sad, just content" — a state that could conceal distress
-- In HWCH6AR, D1_P11 describes children in protective care whose surface presentation masks deeper needs
+- In HWCH6AR, participants describe children who can appear functional in school while carrying deeper burdens
+- In HWCH10AR and the note-taker record, wellbeing is also described in ways that may conceal distress behind outward composure
+- In HWCH6AR, protective and family contexts are discussed as settings where surface presentation can mask deeper needs
 
 The pattern connects to Theme 1 (the spiritual contentment ideal may not account for masked suffering) and Theme 3 (fragmented services lack the holistic lens to detect what is hidden). It serves as an analytical caution: wellbeing frameworks that rely on visible indicators or self-report risk missing the children who need support most.
 
@@ -316,13 +274,13 @@ The pattern connects to Theme 1 (the spiritual contentment ideal may not account
 
 ## 6. Methodological Limitations
 
-- **Coding limitations**: Keyword-based pattern matching produced high `general_response` rates for three sources (HWCH3AR, HWCH4AR, HWCH7AR), meaning theme-to-source mapping in the Q×Theme matrix and source contribution table is incomplete. Analytical claims for these sources rely on close reading rather than automated code matching.
+- **Coding support-layer limitations**: Keyword- and pattern-based retrieval produced high `general_response` rates for three sources (HWCH3AR, HWCH4AR, HWCH7AR), meaning theme-to-source mapping in the Q×Theme matrix and source contribution table is incomplete. Analytical claims for these sources rely on contextual close reading rather than automatic code matching.
 - **Q6–Q7 coding gap**: Q6 and Q7 show zero or near-zero coded theme matches because most segments were coded as `general_response`. The report's Q6–Q7 analysis is based on close reading and does not claim coded theme support.
 - **Speaker attribution inequality**: HWCH2AR and HWCH3AR have poor speaker labeling, limiting participant-level analysis for those tables.
 - **Moderator contamination risk**: In HWCH2AR and HWCH3AR, moderator prompts cannot be reliably separated from participant content.
 - **Single-speaker dominance**: HWCH6AR is heavily shaped by D1_P10 (psychologist, Table 6), whose views are analytically rich but should not be treated as representative.
 - **Professional voice dominance**: Service recipients are rarely identifiable in the data. The analysis reflects a provider perspective on childhood wellbeing.
-- **Language complexity**: Arabic transcripts contain colloquial Gulf Arabic, dialectal variation, and mixed-register speech that keyword-based coding captures imperfectly.
+- **Language complexity**: Arabic transcripts contain colloquial Gulf Arabic, dialectal variation, and mixed-register speech that any keyword- or pattern-based support layer captures imperfectly. Interpretive claims therefore depend on contextual reading of the source material rather than term matching alone.
 - **HWCH10AR evidence style**: This source is registered as a transcript but contains third-person summaries rather than verbatim speech. All quotations from HWCH10AR are labeled as note-style summaries.
 - **Note-taker files**: Used for contextual triangulation but not coded into the segment dataset. The `note_taker_summary` speaker_type does not appear in the coded segments CSV.
 - **Recommendation workbook**: Used only as auxiliary material for Q6–Q7, explicitly labeled.
@@ -338,7 +296,7 @@ The pattern connects to Theme 1 (the spiritual contentment ideal may not account
 | HWCH3AR | 72 | 0* | 0* | None (general_response) | Moderator-dominated. Content available via notes. |
 | HWCH4AR | 52 | 7 | 2 | None (general_response) | Short. Service recipient voice (D1_P09). |
 | HWCH6AR | 99 | 92 | 5 | T1, T2, T3, T4 | Clinically deep child-focused analysis. |
-| HWCH7AR | 157 | 118 | 7 | None (general_response) | Best participant diversity. Close-reading contribution to T1, T3, T4. |
+| HWCH7AR | 157 | 118 | 7 | None (general_response) | Best participant diversity. General-response coding limited outward-facing theme traceability. |
 | HWCH10AR | 44 | 40 | 6 | T1, T2, T3, T4 | English. Note-style summaries. System-level critique. |
 
 *HWCH3AR: All labeled speaker turns classified as moderator. Participant content in unlabeled text (classified unclear) and paired note file.*

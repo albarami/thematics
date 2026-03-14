@@ -30,6 +30,10 @@ The project uses a reflexive thematic analysis approach.
 
 This means the analysis focuses on patterned meaning rather than on mechanical counting. Coding and theme development are interpretive, iterative, and theory-informed at the level of analytic judgement, while remaining grounded in the source material. Themes are developed through active analytic engagement with the data rather than extracted as if they were self-evident categories.
 
+Keyword or pattern matching may be used as a retrieval aid, indexing aid, traceability aid, and support layer for organising evidence, but it is not the primary analytic engine. A segment may support a theme even if it does not contain an expected keyword, and a keyword hit does not by itself establish thematic support.
+
+Theme development is therefore driven primarily by reflexive close reading, contextual interpretation, memo-based reasoning, speaker-role distinction, question-context reading, tension and contradiction analysis, and culturally and linguistically informed interpretation, especially in Arabic and mixed-language material.
+
 The approach is case-sensitive. It treats stakeholder discussions as contextually situated accounts and aims to understand how wellbeing, support, services, barriers, and opportunities are constructed within each case before examining similarities and differences across cases.
 
 ## Corpus and case structure
@@ -129,6 +133,8 @@ Where discussion guides or question structures are available, they are used as c
 ### 5. Code meaning units within cases
 Each case is segmented into coded meaning units. Coding is interpretive rather than purely descriptive. Some codes remain close to participant wording, while others capture a more conceptual or latent level of meaning.
 
+The coding layer provides a structured support system for retrieval, comparison, traceability, and evidence organisation. It does not mechanically determine whether a segment supports a theme.
+
 Codes are developed within each case before cross-case comparison. This preserves case integrity and reduces the risk that one stakeholder group's language will dominate the interpretation of another group's material.
 
 ### 6. Write reflexive and methodological memos
@@ -139,10 +145,10 @@ Memoing functions as an analytic tool rather than a clerical record only. It sup
 ### 7. Develop candidate themes within cases
 Related codes and patterned meanings are grouped into candidate themes within each case. Candidate themes are reviewed for coherence, distinctiveness, explanatory usefulness, and evidential support across the relevant case materials.
 
-This stage focuses on whether multiple coded segments express a broader shared meaning that matters for understanding the case, rather than whether they merely repeat the same topic label.
+This stage focuses on whether multiple segments express a broader shared meaning that matters for understanding the case, rather than whether they merely repeat the same topic label. Close reading, question context, speaker role, discussion flow, tensions, contradictions, and memoed interpretation are used to judge thematic fit. Arabic concepts and local cultural meanings are interpreted in context rather than reduced to literal term matching.
 
 ### 8. Refine final within-case themes
-Candidate themes are refined into final case-level themes through iterative review of coded segments, excerpt banks, memos, contextual notes, and theme-development records. Boundaries between themes are tested carefully so that each final theme captures a distinct patterned meaning.
+Candidate themes are refined into final case-level themes through iterative review of coded segments, excerpt banks, memos, contextual notes, question flow, speaker-role distinctions, and theme-development records. Boundaries between themes are tested carefully so that each final theme captures a distinct patterned meaning.
 
 ### 9. Conduct cross-case comparison
 After within-case themes have been established, a cross-case comparative stage examines convergence, divergence, overlap, contrast, and stakeholder-specific emphasis across the assessed cases.
@@ -152,7 +158,7 @@ Cross-case comparison does not erase case differences. Its purpose is to compare
 ### 10. Produce final synthesis and reporting
 The final reporting stage integrates within-case findings, cross-case comparison, methodological explanation, supporting appendices, structured matrices, participant summary sheets, theme evidence sheets, and descriptive visual outputs. Reporting remains anchored in the documented chain of evidence and distinguishes clearly between interpretation, supporting evidence, and any supplementary salience summaries.
 
-Final reporting is therefore supported by a formal analytic reporting infrastructure rather than by narrative write-up alone. Question-level matrices, participant-level summaries, theme evidence workbooks, tables, and charts are used to organise evidence, strengthen quotation coverage, clarify distribution across questions and sources, and support transparency in how the final report is assembled. Where auxiliary structured recommendation sheets are used, their contribution must be explicitly labeled as recommendation-layer support rather than merged invisibly into transcript-grounded participant evidence.
+Final reporting is therefore supported by a formal analytic reporting infrastructure rather than by narrative write-up alone. Question-level matrices, participant-level summaries, theme evidence workbooks, tables, and charts are used to organise evidence, strengthen quotation coverage, clarify distribution across questions and sources, and support transparency in how the final report is assembled. These outputs support retrieval, traceability, and evidential organisation; they do not generate themes by themselves. Where auxiliary structured recommendation sheets are used, their contribution must be explicitly labeled as recommendation-layer support rather than merged invisibly into transcript-grounded participant evidence.
 
 ## Treatment of language and translation
 The corpus includes mixed-language material.

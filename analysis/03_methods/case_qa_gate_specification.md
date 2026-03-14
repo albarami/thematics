@@ -73,6 +73,7 @@ After coding is complete and before theme writing, confirm:
 3. No moderator prompt appears in participant quotation evidence
 4. Mixed-language excerpts preserve original-language authority
 5. No orphan segments (unlinked to any code) or orphan codes (with no segments)
+6. Any keyword or pattern cues used during coding are documented as retrieval or indexing aids, not as automatic proof of thematic support
 
 Required output:
 - `{CASE}_coding_integrity_report.md`
@@ -85,6 +86,8 @@ After theme development and before final report writing, confirm:
 2. Every theme has: definition, contributing questions, contributing participants, supporting quotations from multiple participants, and a divergence or tension note
 3. No theme-question claim is made without segment support
 4. Final theme names are locked and used identically across all files, including any essential qualifiers
+5. Theme development is justified through contextual interpretation, memo-based reasoning, question context, speaker role, discussion flow, and tension or contradiction analysis rather than repeated keywords alone
+6. Arabic concepts and local cultural meanings are interpreted in context rather than reduced to literal term matching
 
 Required output:
 - `{CASE}_theme_integrity_report.md`
@@ -112,6 +115,7 @@ After the report draft and before final export, confirm:
 4. The report does not confuse moderator prompts with participant evidence
 5. The report does not make cross-case claims
 6. Appendices include a method note, data sources, theme definitions, a prominence note, and a translation note
+7. The method note and report language describe coding, keyword retrieval, matrices, and tables as support structures for traceability and evidence organisation rather than as the primary theme-generation method
 
 Required output:
 - `{CASE}_report_integrity_check.md`

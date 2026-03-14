@@ -32,6 +32,7 @@
   - [ ] Complete CASE_D2 within-case thematic analysis following the 7-gate controlled workflow
   - [x] Refresh the full corpus inventory and case register after the amended day-folder update
   - [x] Revise the full-project methodology and QA workflow for corpus amendment handling and structured recommendation sheets
+  - [x] Revise the methodology, workflow, QA gates, and CASE_D1 method/report framing so keyword or pattern matching is treated only as a retrieval/traceability support layer and themes are defined as interpretive, contextual, and memo-based
   - [x] Inspect `Health_Workshop_Suggestions Day 1.xlsx` and create a formal treatment decision note
   - [x] Build the refreshed corpus foundation package under `analysis/corpus_refresh/` (inventory, case register, source map, moderator register, participant/source-role logic, recommendation assessment, and refresh report)
   - [x] Correct the corpus refresh foundation to D1-D4 only scope, exclude Day 5 entirely, add evidence-based moderator confidence levels, verify all 4 recommendation workbooks, and produce `Foundation_Verification_Report.md`
@@ -48,4 +49,5 @@
   - [ ] Treat the expanded day-folder corpus as a formal corpus-amendment event, refresh inventory/method rules, and supersede the old `CASE_D1` outputs after rerun
   - [x] Build refreshed `CASE_D1` Gate 1 rerun controls: source register, participant register, preparation checklist, and schema-lock note with explicit `speaker_type` handling
   - [x] Reconcile the refreshed `CASE_D1` participant register to substantive participant evidence only by removing duplicate honorific references and downgrading non-substantive attendee labels
-- [x] Complete the strict `CASE_D1` academic reconciliation pass by separating outward-facing vs internal files, removing residual anonymization leakage, correcting cross-check/package claims, and running final outward-facing verification
+ - [x] Complete the strict `CASE_D1` academic reconciliation pass by separating outward-facing vs internal files, removing residual anonymization leakage, correcting cross-check/package claims, and running final outward-facing verification
+ - [x] Complete the strict `CASE_D1` outward-facing evidence-alignment pass by correcting unsupported report quotation placements, enforcing the zero-turn moderator counting rule in participant outputs, and revalidating cross-check claims against the package copy
