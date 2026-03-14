@@ -1,0 +1,51 @@
+﻿anonymized_code,source_file,table_id,speaker_type,role_label,turns,chars,classification_basis
+D2_M01,HWYO0AR.docx,0,moderator,"Moderator, Table 0",14,517,Classified as moderator from explicit `منسق الجلسة` labels in the transcript.
+D2_M02,HWYO1NT.docx,1,moderator,"Moderator, Table 1",0,0,Classified as moderator from moderator-register review only because no transcript file is available for table 1.
+D2_M03,HWYO3AR.docx,3,moderator,"Moderator, Table 3",0,0,Retained as moderator from moderator-register review; transcript exists but speaker labels remain too weak for confirmed moderator turn extraction.
+D2_M04,HWYO4AR.docx,4,moderator,"Moderator, Table 4",35,1015,Classified as moderator from repeated `مدير الجلسة` facilitation turns in the transcript.
+D2_M05,HWYO5NT1.docx,5,moderator,"Moderator, Table 5",0,0,Classified as moderator from moderator-register review only because no transcript file is available for table 5.
+D2_M06,HWYO6NT1.docx,6,moderator,"Moderator, Table 6",0,0,Classified as moderator from moderator-register review only because no transcript file is available for table 6.
+D2_M07,HWYO7AR.docx,7,moderator,"Moderator, Table 7",0,0,Classified as moderator from transcript opening (`يدير الجلسة أ. عبلة خليل`) and moderator-register review; facilitation turns could not be robustly separated from flowing text.
+D2_M08,HWYO9AR.docx,9,moderator,"Moderator, Table 9",24,5408,Classified as moderator from explicit `Moderator` speaker labels in the transcript and moderator-register review.
+D2_M09,HWYO10AR.docx,10,moderator,"Moderator, Table 10",3,456,Classified as moderator from explicit `Moderator` speaker labels in the transcript and moderator-register review.
+D2_M10,HWYO11AR.docx,11,moderator,"Moderator, Table 11",12,742,Classified as moderator from repeated `المحاور` facilitation labels in the transcript and moderator-register review.
+D2_P01,HWYO0AR.docx,0,participant,"Senior healthcare leader, Table 0",3,1704,Classified as participant from named substantive turns (`د. أحمد العمادي`) in the transcript.
+D2_P02,HWYO0AR.docx,0,participant,"Consultant obstetrician-gynaecologist, Table 0",10,8524,Classified as participant from repeated named substantive turns (`د. سلوى`) in the transcript.
+D2_P03,HWYO0AR.docx,0,participant,"Consultant obstetrician-gynaecologist and executive leader, Table 0",10,9262,Classified as participant from repeated named substantive turns (`د. زينة`) in the transcript.
+D2_P04,HWYO0AR.docx,0,participant,"Mental-health executive, Table 0",11,7713,Classified as participant from repeated named substantive turns (`د. رائد عمرو`) in the transcript.
+D2_P05,HWYO0AR.docx,0,participant,"Senior psychiatrist and policy adviser, Table 0",8,5719,Classified as participant from repeated named substantive turns (`د. محمد عبد العليم`) in the transcript.
+D2_P06,HWYO0AR.docx,0,participant,"Family and religious adviser, Table 0",2,3373,Classified as participant from named substantive turns (`د. أحمد الفرجابي`) in the transcript.
+D2_P07,HWYO4AR.docx,4,participant,"Learning support specialist, Table 4",4,1221,Classified as participant from role-labelled turns (`د. ريم الحاج`) in the transcript.
+D2_P08,HWYO4AR.docx,4,participant,"Service recipient, Table 4",1,143,Classified as participant because the transcript explicitly labels `مريم` as `متلقي خدمة`.
+D2_P09,HWYO4AR.docx,4,participant,"Service recipient, Table 4",1,195,Classified as participant because the transcript explicitly labels `دانا` as `متلقي خدمة`.
+D2_P10,HWYO4AR.docx,4,participant,"Clinical psychologist, Table 4",5,1550,Classified as participant from repeated role-labelled turns (`د. هاجر`) in the transcript.
+D2_P11,HWYO4AR.docx,4,participant,"Social rehabilitation specialist, Table 4",6,2155,Classified as participant from repeated role-labelled turns (`د. وائل`) in the transcript.
+D2_P12,HWYO4AR.docx,4,participant,"General paediatrics clinician, Table 4",7,3557,Classified as participant from repeated role-labelled turns (`د. أمير`) in the transcript.
+D2_P13,HWYO4AR.docx,4,participant,"University academic, Table 4",2,1606,Classified as participant from role-labelled turns (`د. مصطفى`) in the transcript.
+D2_P14,HWYO7AR.docx,7,participant,"Clinical psychologist, Aman Centre, Table 7",5,1877,Classified as participant from repeated named turns (`د. داليا`) in the transcript.
+D2_P15,HWYO9AR.docx,9,participant,"Clinical psychologist, PHCC, Table 9",12,3367,Classified as participant from explicit `Speaker 1` header and substantive turns in the transcript.
+D2_P16,HWYO9AR.docx,9,participant,"Laboratory psychologist, Table 9",6,1956,Classified as participant from explicit `Speaker 2` header and substantive turns in the transcript.
+D2_P17,HWYO9AR.docx,9,participant,"Occupational therapist, mental health services, Table 9",14,5661,Classified as participant from explicit `Speaker 3` header and substantive turns in the transcript.
+D2_P18,HWYO9AR.docx,9,participant,"Midwife, women’s hospital, Table 9",3,747,Classified as participant from explicit `Speaker 4` header and substantive turns in the transcript.
+D2_P19,HWYO9AR.docx,9,participant,"Student, Qatar University, Table 9",4,1246,Classified as participant from explicit `Speaker 5` header and substantive turns in the transcript.
+D2_P20,HWYO9AR.docx,9,participant,"Academic, college of health science, Table 9",10,5560,Classified as participant from explicit `Speaker 6` header and substantive turns in the transcript.
+D2_P21,HWYO9AR.docx,9,participant,"Specialist family medicine, PHCC, Table 9",6,2734,Classified as participant from explicit `Speaker 7` header and substantive turns in the transcript.
+D2_P22,HWYO9AR.docx,9,participant,"Healthcare participant, Table 9",14,5216,"Classified as participant from explicit `Speaker 8` turns, but role label remains generic because the transcript does not provide a stable header for Speaker 8."
+D2_P23,HWYO10AR.docx,10,participant,"Sports podiatry professional, Table 10",5,2074,Classified as participant from named English Q&A turns (`Miguel`).
+D2_P24,HWYO10AR.docx,10,participant,"Psychologist, Table 10",6,1949,Classified as participant from named English Q&A turns (`Elena`).
+D2_P25,HWYO10AR.docx,10,participant,"Sports podiatry professional, Table 10",8,2240,Classified as participant from named English Q&A turns (`Liam`).
+D2_P26,HWYO10AR.docx,10,participant,"Staff nurse, Table 10",4,1039,Classified as participant from named English Q&A turns (`Carmona`).
+D2_P27,HWYO10AR.docx,10,participant,"Researcher, Table 10",6,1878,Classified as participant from named English Q&A turns (`Safrina`).
+D2_P28,HWYO10AR.docx,10,participant,"Human resources professional, Table 10",8,2305,Classified as participant from named English Q&A turns (`Herald`).
+D2_P29,HWYO10AR.docx,10,participant,"Clinical psychologist, Table 10",5,1743,Classified as participant from named English Q&A turns (`Rehana`).
+D2_P30,HWYO10AR.docx,10,participant,"Nurse, Table 10",6,2020,Classified as participant from named English Q&A turns (`Aziza`).
+D2_P31,HWYO11AR.docx,11,participant,"Dental clinician, private sector, Table 11",1,154,Classified as participant from explicitly role-labelled turn (`د. سارة`).
+D2_P32,HWYO11AR.docx,11,participant,"Psychiatrist, Table 11",5,2957,Classified as participant from repeated role-labelled turns (`د. أسماء`) in the transcript.
+D2_P33,HWYO11AR.docx,11,participant,"Service recipient, Table 11",3,1828,Classified as participant from repeated role-labelled turns (`محمد أبو هاشم – مستفيد`) in the transcript.
+D2_P34,HWYO11AR.docx,11,participant,"Nurse, Aspetar, Table 11",2,2244,Classified as participant from role-labelled turns (`نيلي خليل`) in the transcript.
+D2_P35,HWYO11AR.docx,11,participant,"Service recipient, Table 11",3,2380,Classified as participant from repeated role-labelled turns (`عبدالرحمن القديمي – مستفيد/مراجع`) in the transcript.
+D2_P36,HWYO11AR.docx,11,participant,"Dental clinician, private sector, Table 11",2,1325,Classified as participant from repeated role-labelled turns (`رشا علام`) in the transcript.
+D2_P37,HWYO11AR.docx,11,participant,"Dental clinician, private sector, Table 11",4,3478,Classified as participant from repeated role-labelled turns (`د. نور غازي`) in the transcript.
+D2_P38,HWYO11AR.docx,11,participant,"Dental clinician, private sector, Table 11",1,1123,Classified as participant from explicitly role-labelled turn (`سارة غازي`) in the transcript.
+D2_U01,HWYO11AR.docx,11,unclear,"Unclear speaker identity, Table 11",11,3737,Attribution remained indeterminate after review because multiple substantive turns are preserved only as `مشارك آخر` without stable role recovery.
+D2_U02,HWYO11AR.docx,11,unclear,"Unclear speaker identity, Table 11",4,133,Attribution remained indeterminate after review because the transcript retains a recurrent generic `المشارك` label without stable role recovery.

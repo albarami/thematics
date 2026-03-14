@@ -51,3 +51,14 @@
   - [x] Reconcile the refreshed `CASE_D1` participant register to substantive participant evidence only by removing duplicate honorific references and downgrading non-substantive attendee labels
  - [x] Complete the strict `CASE_D1` academic reconciliation pass by separating outward-facing vs internal files, removing residual anonymization leakage, correcting cross-check/package claims, and running final outward-facing verification
  - [x] Complete the strict `CASE_D1` outward-facing evidence-alignment pass by correcting unsupported report quotation placements, enforcing the zero-turn moderator counting rule in participant outputs, and revalidating cross-check claims against the package copy
+ - [x] Build `CASE_D2` Gate 1 control files on the refreshed Day 2 source base by creating the source register, participant register, preparation checklist, question map, recommendation-usage rule note, and `.docx` extraction diagnostics
+ - [x] Complete the `CASE_D2` familiarisation memo set by creating the Day 2 source sensitivity memo, language memo, boundary memo, and familiarisation memo on the refreshed Day 2 source base
+ - [x] Lock `CASE_D2` Gate 2 with `CASE_D2_schema_check.md` using the active `CASE_D1` artifact schemas and explicit `speaker_type` rules
+ - [x] Create `CASE_D2_working_codebook.md` as the first Day 2 coding artifact, using the active Day 1 markdown codebook structure but Day 2-specific code families
+ - [x] Promote the cleaned `CASE_D2` segment base into `CASE_D2_coded_segments.csv` and build the linked `CASE_D2_participant_summary.csv` and `CASE_D2_question_evidence_table.csv` artifacts
+ - [x] Refine `CASE_D2` segment-level coding beyond provisional `general_response` and `moderator_context` through a first-pass codebook-based recoding build, and regenerate the linked Day 2 summary tables from that richer base
+ - [x] Manually review and tighten the first-pass `CASE_D2` coding layer and regenerate the linked Day 2 summary tables from the reviewed coded base
+ - [x] Build `CASE_D2_participant_workbook.xlsx` from the reviewed coded base using the established `CASE_D1` workbook pattern
+ - [x] Build `CASE_D2_coding_integrity_report.md` from the reviewed coded base and current linked Gate 3 artifacts
+ - [ ] Build the remaining theme-dependent `CASE_D2` Gate 4 and Gate 5 artifacts from the reviewed coded base after theme development is completed and locked
+
