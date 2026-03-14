@@ -73,11 +73,12 @@
  - [ ] Refine `CASE_D3` segment-level coding beyond provisional `general_response` and `moderator_context` through a first-pass codebook-based recoding build, and regenerate the linked Day 3 summary tables from that richer base
  - [ ] Manually review and tighten the first-pass `CASE_D3` coding layer and regenerate the linked Day 3 summary tables from the reviewed coded base
  - [x] Build `CASE_D3_participant_workbook.xlsx` from the reviewed coded base using the established `CASE_D1` workbook pattern
- - [ ] Build `CASE_D3_coding_integrity_report.md` from the reviewed coded base and current linked Gate 3 artifacts
- - [ ] Build the remaining theme-dependent `CASE_D3` Gate 4 and Gate 5 artifacts from the reviewed coded base after theme development is completed and locked
+ - [x] Build `CASE_D3_coding_integrity_report.md` from the reviewed coded base and current linked Gate 3 artifacts
+ - [x] Build the remaining theme-dependent `CASE_D3` Gate 4 and Gate 5 artifacts from the reviewed coded base after theme development is completed and locked
  - [ ] Build the `CASE_D3` outward-facing report layer, explicit note-based evidence handling, and final cross-check from the locked Day 3 theme layer
  - [ ] Build any remaining `CASE_D3` visual/report-aid outputs and package-support tables needed to mirror the final Day 1 outward-facing standard
  - [ ] Assemble and verify a final `CASE_D3` outward-facing submission/package folder before marking Day 3 fully complete
 
 ## Discovered During Work
 - [x] Stabilize `CASE_D3` question mapping in `build_case_d3_segment_candidates.py` using forward-only detection, source-specific breakpoints, and recovered English summary handling before Day 3 promotion
+- [x] Tighten `CASE_D3` theme-layer matching with question-bounded interpretive theme rules and explicit close-reading support labels before building the Day 3 Gate 4 evidence layer
