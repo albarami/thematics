@@ -64,3 +64,20 @@
   - [x] Build the `CASE_D2` outward-facing report layer, explicit note-based evidence handling, and final cross-check from the locked Day 2 theme layer
   - [x] Build any remaining `CASE_D2` visual/report-aid outputs and package-support tables needed to mirror the final Day 1 outward-facing standard
   - [x] Assemble and verify a final `CASE_D2` outward-facing submission/package folder before marking Day 2 fully complete
+
+  - [x] Build `CASE_D3` Gate 1 control files on the refreshed Day 3 source base by creating the source register, participant register, preparation checklist, question map, recommendation-usage rule note, and `.docx` extraction diagnostics
+ - [x] Complete the `CASE_D3` familiarisation memo set by creating the Day 3 source sensitivity memo, language memo, boundary memo, and familiarisation memo on the refreshed Day 3 source base
+  - [x] Lock `CASE_D3` Gate 2 with `CASE_D3_schema_check.md` using the active `CASE_D1` artifact schemas and explicit `speaker_type` rules
+ - [x] Create `CASE_D3_working_codebook.md` as the first Day 3 coding artifact, using the active Day 1 markdown codebook structure but Day 3-specific code families
+ - [x] Promote the cleaned `CASE_D3` segment base into `CASE_D3_coded_segments.csv` and build the linked `CASE_D3_participant_summary.csv` and `CASE_D3_question_evidence_table.csv` artifacts
+ - [ ] Refine `CASE_D3` segment-level coding beyond provisional `general_response` and `moderator_context` through a first-pass codebook-based recoding build, and regenerate the linked Day 3 summary tables from that richer base
+ - [ ] Manually review and tighten the first-pass `CASE_D3` coding layer and regenerate the linked Day 3 summary tables from the reviewed coded base
+ - [x] Build `CASE_D3_participant_workbook.xlsx` from the reviewed coded base using the established `CASE_D1` workbook pattern
+ - [ ] Build `CASE_D3_coding_integrity_report.md` from the reviewed coded base and current linked Gate 3 artifacts
+ - [ ] Build the remaining theme-dependent `CASE_D3` Gate 4 and Gate 5 artifacts from the reviewed coded base after theme development is completed and locked
+ - [ ] Build the `CASE_D3` outward-facing report layer, explicit note-based evidence handling, and final cross-check from the locked Day 3 theme layer
+ - [ ] Build any remaining `CASE_D3` visual/report-aid outputs and package-support tables needed to mirror the final Day 1 outward-facing standard
+ - [ ] Assemble and verify a final `CASE_D3` outward-facing submission/package folder before marking Day 3 fully complete
+
+## Discovered During Work
+- [x] Stabilize `CASE_D3` question mapping in `build_case_d3_segment_candidates.py` using forward-only detection, source-specific breakpoints, and recovered English summary handling before Day 3 promotion
